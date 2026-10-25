@@ -1,0 +1,901 @@
+x,y,mode,truth,answer,wrong,abstain,correct,x_ok,y_ok
+Windsor Castle,National Museum of Scotland,none,yes,no,1,0,0,0,0
+Windsor Castle,National Museum of Scotland,all,yes,yes,0,0,1,0,0
+Windsor Castle,National Museum of Scotland,filtered,yes,yes,0,0,1,0,0
+Edinburgh Castle,Royal Observatory,none,yes,yes,0,0,1,0,0
+Edinburgh Castle,Royal Observatory,all,yes,yes,0,0,1,0,0
+Edinburgh Castle,Royal Observatory,filtered,yes,yes,0,0,1,0,0
+Old Sarum,The O2 Arena,none,yes,no,1,0,0,0,0
+Old Sarum,The O2 Arena,all,yes,yes,0,0,1,0,0
+Old Sarum,The O2 Arena,filtered,yes,yes,0,0,1,0,0
+Arena AufSchalke,Pergamon Museum,none,yes,no,1,0,0,1,0
+Arena AufSchalke,Pergamon Museum,all,yes,no,1,0,0,1,0
+Arena AufSchalke,Pergamon Museum,filtered,yes,no,1,0,0,1,0
+Wembley Stadium,London Eye,none,yes,yes,0,0,1,0,0
+Wembley Stadium,London Eye,all,yes,yes,0,0,1,0,0
+Wembley Stadium,London Eye,filtered,yes,yes,0,0,1,0,0
+Colosseum,Castel Sant'Angelo,none,yes,no,1,0,0,1,1
+Colosseum,Castel Sant'Angelo,all,yes,yes,0,0,1,1,1
+Colosseum,Castel Sant'Angelo,filtered,yes,yes,0,0,1,1,1
+Smithsonian Institution,Acrisure Stadium,none,yes,no,1,0,0,1,1
+Smithsonian Institution,Acrisure Stadium,all,yes,yes,0,0,1,1,1
+Smithsonian Institution,Acrisure Stadium,filtered,yes,yes,0,0,1,1,1
+Hawa Mahal,"Kalinga Sports Complex, Bhubaneswar",none,yes,no,1,0,0,1,1
+Hawa Mahal,"Kalinga Sports Complex, Bhubaneswar",all,yes,yes,0,0,1,1,1
+Hawa Mahal,"Kalinga Sports Complex, Bhubaneswar",filtered,yes,yes,0,0,1,1,1
+Église du Val-de-Grâce,Château de Castelnaud-la-Chapelle,none,yes,no,1,0,0,1,1
+Église du Val-de-Grâce,Château de Castelnaud-la-Chapelle,all,yes,yes,0,0,1,1,1
+Église du Val-de-Grâce,Château de Castelnaud-la-Chapelle,filtered,yes,yes,0,0,1,1,1
+Stade de la Mosson,L'archipel,none,yes,no,1,0,0,1,1
+Stade de la Mosson,L'archipel,all,yes,yes,0,0,1,1,1
+Stade de la Mosson,L'archipel,filtered,yes,yes,0,0,1,1,1
+Stade de Roudourou,Guédelon Castle,none,yes,no,1,0,0,1,1
+Stade de Roudourou,Guédelon Castle,all,yes,yes,0,0,1,1,1
+Stade de Roudourou,Guédelon Castle,filtered,yes,yes,0,0,1,1,1
+Windsor Castle,Tower of London,none,yes,yes,0,0,1,0,0
+Windsor Castle,Tower of London,all,yes,yes,0,0,1,0,0
+Windsor Castle,Tower of London,filtered,yes,yes,0,0,1,0,0
+Willis Tower,Smithsonian Institution,none,yes,no,1,0,0,1,1
+Willis Tower,Smithsonian Institution,all,yes,yes,0,0,1,1,1
+Willis Tower,Smithsonian Institution,filtered,yes,yes,0,0,1,1,1
+Topkapı Palace,The Museum of Innocence,none,yes,no,1,0,0,1,1
+Topkapı Palace,The Museum of Innocence,all,yes,yes,0,0,1,1,1
+Topkapı Palace,The Museum of Innocence,filtered,yes,no,1,0,0,1,1
+Guédelon Castle,Stade Chaban-Delmas,none,yes,no,1,0,0,1,1
+Guédelon Castle,Stade Chaban-Delmas,all,yes,yes,0,0,1,1,1
+Guédelon Castle,Stade Chaban-Delmas,filtered,yes,yes,0,0,1,1,1
+Torre PwC,Tower of Hercules,none,yes,no,1,0,0,1,1
+Torre PwC,Tower of Hercules,all,yes,yes,0,0,1,1,1
+Torre PwC,Tower of Hercules,filtered,yes,yes,0,0,1,1,1
+MetLife Building,30 Park Place,none,yes,no,1,0,0,1,1
+MetLife Building,30 Park Place,all,yes,yes,0,0,1,1,1
+MetLife Building,30 Park Place,filtered,yes,yes,0,0,1,1,1
+Guggenheim Museum Bilbao,Cathedral of Santiago de Compostela,none,yes,no,1,0,0,1,1
+Guggenheim Museum Bilbao,Cathedral of Santiago de Compostela,all,yes,yes,0,0,1,1,1
+Guggenheim Museum Bilbao,Cathedral of Santiago de Compostela,filtered,yes,yes,0,0,1,1,1
+Charlottenhof Palace,Aachen Cathedral,none,yes,no,1,0,0,1,1
+Charlottenhof Palace,Aachen Cathedral,all,yes,yes,0,0,1,1,1
+Charlottenhof Palace,Aachen Cathedral,filtered,yes,no,1,0,0,1,1
+National Museum of Scotland,Tantallon Castle,none,yes,no,1,0,0,0,0
+National Museum of Scotland,Tantallon Castle,all,yes,yes,0,0,1,0,0
+National Museum of Scotland,Tantallon Castle,filtered,yes,yes,0,0,1,0,0
+Stade Chaban-Delmas,Saint-Pierre de Montmartre,none,yes,no,1,0,0,1,1
+Stade Chaban-Delmas,Saint-Pierre de Montmartre,all,yes,yes,0,0,1,1,1
+Stade Chaban-Delmas,Saint-Pierre de Montmartre,filtered,yes,yes,0,0,1,1,1
+"Kalinga Sports Complex, Bhubaneswar",Lotus Temple,none,yes,yes,0,0,1,1,1
+"Kalinga Sports Complex, Bhubaneswar",Lotus Temple,all,yes,yes,0,0,1,1,1
+"Kalinga Sports Complex, Bhubaneswar",Lotus Temple,filtered,yes,yes,0,0,1,1,1
+Château de Castelnaud-la-Chapelle,Triangle,none,yes,no,1,0,0,1,1
+Château de Castelnaud-la-Chapelle,Triangle,all,yes,yes,0,0,1,1,1
+Château de Castelnaud-la-Chapelle,Triangle,filtered,yes,yes,0,0,1,1,1
+St. Adalbert's church,Corpus Christi Basilica,none,yes,no,1,0,0,1,0
+St. Adalbert's church,Corpus Christi Basilica,all,yes,no,1,0,0,1,0
+St. Adalbert's church,Corpus Christi Basilica,filtered,yes,no,1,0,0,1,0
+Dolby Theatre,Acrisure Stadium,none,yes,no,1,0,0,1,1
+Dolby Theatre,Acrisure Stadium,all,yes,yes,0,0,1,1,1
+Dolby Theatre,Acrisure Stadium,filtered,yes,yes,0,0,1,1,1
+Uffizi Gallery,Santa Maria in Campitelli,none,yes,no,1,0,0,1,1
+Uffizi Gallery,Santa Maria in Campitelli,all,yes,yes,0,0,1,1,1
+Uffizi Gallery,Santa Maria in Campitelli,filtered,yes,yes,0,0,1,1,1
+Vicarage Road,Old Sarum,none,yes,no,1,0,0,0,0
+Vicarage Road,Old Sarum,all,yes,yes,0,0,1,0,0
+Vicarage Road,Old Sarum,filtered,yes,yes,0,0,1,0,0
+Château de Brissac,Château de Castelnaud-la-Chapelle,none,yes,no,1,0,0,1,1
+Château de Brissac,Château de Castelnaud-la-Chapelle,all,yes,yes,0,0,1,1,1
+Château de Brissac,Château de Castelnaud-la-Chapelle,filtered,yes,yes,0,0,1,1,1
+Friedrichswerder Church,Marmorpalais,none,yes,no,1,0,0,1,1
+Friedrichswerder Church,Marmorpalais,all,yes,yes,0,0,1,1,1
+Friedrichswerder Church,Marmorpalais,filtered,yes,yes,0,0,1,1,1
+Chrysler Building,MetLife Building,none,yes,no,1,0,0,1,1
+Chrysler Building,MetLife Building,all,yes,yes,0,0,1,1,1
+Chrysler Building,MetLife Building,filtered,yes,yes,0,0,1,1,1
+Triangle,Luxembourg Palace,none,yes,no,1,0,0,1,0
+Triangle,Luxembourg Palace,all,yes,no,1,0,0,1,0
+Triangle,Luxembourg Palace,filtered,yes,no,1,0,0,1,0
+Tour Défense 2000,Bastille,none,yes,no,1,0,0,1,1
+Tour Défense 2000,Bastille,all,yes,yes,0,0,1,1,1
+Tour Défense 2000,Bastille,filtered,yes,no,1,0,0,1,1
+Stade Vélodrome,Tour Défense 2000,none,yes,no,1,0,0,1,1
+Stade Vélodrome,Tour Défense 2000,all,yes,yes,0,0,1,1,1
+Stade Vélodrome,Tour Défense 2000,filtered,yes,no,1,0,0,1,1
+Gate to the East,Shanghai Tower,none,yes,no,1,0,0,0,0
+Gate to the East,Shanghai Tower,all,yes,yes,0,0,1,0,0
+Gate to the East,Shanghai Tower,filtered,yes,yes,0,0,1,0,0
+Laura Biathlon & Ski Complex,Tsaritsyno Park + palace,none,yes,no,1,0,0,0,1
+Laura Biathlon & Ski Complex,Tsaritsyno Park + palace,all,yes,yes,0,0,1,0,1
+Laura Biathlon & Ski Complex,Tsaritsyno Park + palace,filtered,yes,unknown,0,1,0,0,1
+Saint Isaac's Cathedral,Volgograd Arena,none,yes,no,1,0,0,1,1
+Saint Isaac's Cathedral,Volgograd Arena,all,yes,yes,0,0,1,1,1
+Saint Isaac's Cathedral,Volgograd Arena,filtered,yes,yes,0,0,1,1,1
+Catania Cathedral,Santa Maria delle Grazie,none,yes,no,1,0,0,1,1
+Catania Cathedral,Santa Maria delle Grazie,all,yes,yes,0,0,1,1,1
+Catania Cathedral,Santa Maria delle Grazie,filtered,yes,yes,0,0,1,1,1
+Château de Saint-Cloud,Guédelon Castle,none,yes,no,1,0,0,1,1
+Château de Saint-Cloud,Guédelon Castle,all,yes,yes,0,0,1,1,1
+Château de Saint-Cloud,Guédelon Castle,filtered,yes,yes,0,0,1,1,1
+Wartburg,Old Castle,none,yes,no,1,0,0,1,0
+Wartburg,Old Castle,all,yes,no,1,0,0,1,0
+Wartburg,Old Castle,filtered,yes,no,1,0,0,1,0
+Sacré-Cœur,Château de Brissac,none,yes,no,1,0,0,1,1
+Sacré-Cœur,Château de Brissac,all,yes,yes,0,0,1,1,1
+Sacré-Cœur,Château de Brissac,filtered,yes,yes,0,0,1,1,1
+270 Park Avenue,30 Park Place,none,yes,no,1,0,0,1,1
+270 Park Avenue,30 Park Place,all,yes,yes,0,0,1,1,1
+270 Park Avenue,30 Park Place,filtered,yes,yes,0,0,1,1,1
+Santa Costanza,Florence Cathedral,none,yes,no,1,0,0,1,1
+Santa Costanza,Florence Cathedral,all,yes,yes,0,0,1,1,1
+Santa Costanza,Florence Cathedral,filtered,yes,yes,0,0,1,1,1
+Marmorpalais,Aachen Cathedral,none,yes,no,1,0,0,1,1
+Marmorpalais,Aachen Cathedral,all,yes,yes,0,0,1,1,1
+Marmorpalais,Aachen Cathedral,filtered,yes,yes,0,0,1,1,1
+Auschwitz,Malbork Castle,none,yes,no,1,0,0,1,1
+Auschwitz,Malbork Castle,all,yes,yes,0,0,1,1,1
+Auschwitz,Malbork Castle,filtered,yes,no,1,0,0,1,1
+Stade Vélodrome,Stade de la Mosson,none,yes,no,1,0,0,1,1
+Stade Vélodrome,Stade de la Mosson,all,yes,yes,0,0,1,1,1
+Stade Vélodrome,Stade de la Mosson,filtered,yes,yes,0,0,1,1,1
+Bodrum Mosque,Gül Mosque,none,yes,yes,0,0,1,1,1
+Bodrum Mosque,Gül Mosque,all,yes,yes,0,0,1,1,1
+Bodrum Mosque,Gül Mosque,filtered,yes,yes,0,0,1,1,1
+Tintagel Castle,British Museum,none,yes,no,1,0,0,0,0
+Tintagel Castle,British Museum,all,yes,yes,0,0,1,0,0
+Tintagel Castle,British Museum,filtered,yes,no,1,0,0,0,0
+Stade Vélodrome,Château de Saumur,none,yes,no,1,0,0,1,1
+Stade Vélodrome,Château de Saumur,all,yes,yes,0,0,1,1,1
+Stade Vélodrome,Château de Saumur,filtered,yes,yes,0,0,1,1,1
+Volgograd Arena,Rostov Arena,none,yes,no,1,0,0,1,1
+Volgograd Arena,Rostov Arena,all,yes,yes,0,0,1,1,1
+Volgograd Arena,Rostov Arena,filtered,yes,yes,0,0,1,1,1
+Château de Brissac,Palace of Versailles,none,yes,yes,0,0,1,1,1
+Château de Brissac,Palace of Versailles,all,yes,yes,0,0,1,1,1
+Château de Brissac,Palace of Versailles,filtered,yes,yes,0,0,1,1,1
+Catania Cathedral,"San Saba, Rome",none,yes,no,1,0,0,1,1
+Catania Cathedral,"San Saba, Rome",all,yes,yes,0,0,1,1,1
+Catania Cathedral,"San Saba, Rome",filtered,yes,yes,0,0,1,1,1
+British Museum,Dinefwr Castle,none,yes,no,1,0,0,0,0
+British Museum,Dinefwr Castle,all,yes,no,1,0,0,0,0
+British Museum,Dinefwr Castle,filtered,yes,no,1,0,0,0,0
+Triangle,Église du Val-de-Grâce,none,yes,no,1,0,0,1,1
+Triangle,Église du Val-de-Grâce,all,yes,yes,0,0,1,1,1
+Triangle,Église du Val-de-Grâce,filtered,yes,yes,0,0,1,1,1
+Nu Stadium,Radio City Music Hall,none,yes,no,1,0,0,0,1
+Nu Stadium,Radio City Music Hall,all,yes,no,1,0,0,0,1
+Nu Stadium,Radio City Music Hall,filtered,yes,no,1,0,0,0,1
+Tantallon Castle,British Museum,none,yes,no,1,0,0,0,0
+Tantallon Castle,British Museum,all,yes,no,1,0,0,0,0
+Tantallon Castle,British Museum,filtered,yes,no,1,0,0,0,0
+Ajanta Caves,Lotus Temple,none,yes,no,1,0,0,1,1
+Ajanta Caves,Lotus Temple,all,yes,yes,0,0,1,1,1
+Ajanta Caves,Lotus Temple,filtered,yes,yes,0,0,1,1,1
+Pergamon Museum,Wartburg,none,yes,no,1,0,0,0,1
+Pergamon Museum,Wartburg,all,yes,no,1,0,0,0,1
+Pergamon Museum,Wartburg,filtered,yes,no,1,0,0,0,1
+London Eye,Hampden Park,none,yes,no,1,0,0,0,0
+London Eye,Hampden Park,all,yes,no,1,0,0,0,0
+London Eye,Hampden Park,filtered,yes,no,1,0,0,0,0
+"The STRAT Hotel, Casino & SkyPod",Chrysler Building,none,yes,no,1,0,0,1,1
+"The STRAT Hotel, Casino & SkyPod",Chrysler Building,all,yes,yes,0,0,1,1,1
+"The STRAT Hotel, Casino & SkyPod",Chrysler Building,filtered,yes,yes,0,0,1,1,1
+Triangle,Stade Chaban-Delmas,none,yes,no,1,0,0,1,1
+Triangle,Stade Chaban-Delmas,all,yes,yes,0,0,1,1,1
+Triangle,Stade Chaban-Delmas,filtered,yes,yes,0,0,1,1,1
+Estádio dos Eucaliptos,Mineirão,none,yes,no,1,0,0,1,1
+Estádio dos Eucaliptos,Mineirão,all,yes,yes,0,0,1,1,1
+Estádio dos Eucaliptos,Mineirão,filtered,yes,no,1,0,0,1,1
+Ajanta Caves,St. Francis Church,none,yes,no,1,0,0,1,0
+Ajanta Caves,St. Francis Church,all,yes,no,1,0,0,1,0
+Ajanta Caves,St. Francis Church,filtered,yes,no,1,0,0,1,0
+Saint-Pierre de Montmartre,Château de Saumur,none,yes,no,1,0,0,1,1
+Saint-Pierre de Montmartre,Château de Saumur,all,yes,yes,0,0,1,1,1
+Saint-Pierre de Montmartre,Château de Saumur,filtered,yes,yes,0,0,1,1,1
+Château de Montsoreau,Église du Val-de-Grâce,none,yes,no,1,0,0,1,1
+Château de Montsoreau,Église du Val-de-Grâce,all,yes,yes,0,0,1,1,1
+Château de Montsoreau,Église du Val-de-Grâce,filtered,yes,no,1,0,0,1,1
+Luxembourg Palace,Tour Défense 2000,none,yes,no,1,0,0,0,1
+Luxembourg Palace,Tour Défense 2000,all,yes,yes,0,0,1,0,1
+Luxembourg Palace,Tour Défense 2000,filtered,yes,no,1,0,0,0,1
+Friedrichswerder Church,Arena AufSchalke,none,yes,no,1,0,0,1,1
+Friedrichswerder Church,Arena AufSchalke,all,yes,yes,0,0,1,1,1
+Friedrichswerder Church,Arena AufSchalke,filtered,yes,yes,0,0,1,1,1
+Vicarage Road,Royal Observatory,none,yes,no,1,0,0,0,0
+Vicarage Road,Royal Observatory,all,yes,yes,0,0,1,0,0
+Vicarage Road,Royal Observatory,filtered,yes,yes,0,0,1,0,0
+Kensington Palace,Royal Opera House,none,yes,no,1,0,0,0,0
+Kensington Palace,Royal Opera House,all,yes,yes,0,0,1,0,0
+Kensington Palace,Royal Opera House,filtered,yes,yes,0,0,1,0,0
+Palace of Capodimonte,Uffizi Gallery,none,yes,no,1,0,0,1,1
+Palace of Capodimonte,Uffizi Gallery,all,yes,yes,0,0,1,1,1
+Palace of Capodimonte,Uffizi Gallery,filtered,yes,yes,0,0,1,1,1
+Palace of Capodimonte,Florence Cathedral,none,yes,no,1,0,0,1,1
+Palace of Capodimonte,Florence Cathedral,all,yes,yes,0,0,1,1,1
+Palace of Capodimonte,Florence Cathedral,filtered,yes,yes,0,0,1,1,1
+Cathedral of Santiago de Compostela,Estadio José Rico Pérez,none,yes,no,1,0,0,1,1
+Cathedral of Santiago de Compostela,Estadio José Rico Pérez,all,yes,yes,0,0,1,1,1
+Cathedral of Santiago de Compostela,Estadio José Rico Pérez,filtered,yes,yes,0,0,1,1,1
+Château de Saint-Cloud,Stade de la Mosson,none,yes,no,1,0,0,1,1
+Château de Saint-Cloud,Stade de la Mosson,all,yes,no,1,0,0,1,1
+Château de Saint-Cloud,Stade de la Mosson,filtered,yes,no,1,0,0,1,1
+Château de Castelnaud-la-Chapelle,Hôtel Matignon,none,yes,no,1,0,0,1,1
+Château de Castelnaud-la-Chapelle,Hôtel Matignon,all,yes,yes,0,0,1,1,1
+Château de Castelnaud-la-Chapelle,Hôtel Matignon,filtered,yes,yes,0,0,1,1,1
+Colosseum,Santa Costanza,none,yes,no,1,0,0,1,1
+Colosseum,Santa Costanza,all,yes,yes,0,0,1,1,1
+Colosseum,Santa Costanza,filtered,yes,yes,0,0,1,1,1
+Château de Castelnaud-la-Chapelle,Palace of Fontainebleau,none,yes,yes,0,0,1,1,1
+Château de Castelnaud-la-Chapelle,Palace of Fontainebleau,all,yes,yes,0,0,1,1,1
+Château de Castelnaud-la-Chapelle,Palace of Fontainebleau,filtered,yes,yes,0,0,1,1,1
+Old Castle,Pergamon Museum,none,yes,no,1,0,0,0,0
+Old Castle,Pergamon Museum,all,yes,no,1,0,0,0,0
+Old Castle,Pergamon Museum,filtered,yes,no,1,0,0,0,0
+Panthéon,Stade de Roudourou,none,yes,no,1,0,0,1,1
+Panthéon,Stade de Roudourou,all,yes,no,1,0,0,1,1
+Panthéon,Stade de Roudourou,filtered,yes,no,1,0,0,1,1
+Lighthouse of Alexandria,Luxor Temple,none,yes,no,1,0,0,1,1
+Lighthouse of Alexandria,Luxor Temple,all,yes,yes,0,0,1,1,1
+Lighthouse of Alexandria,Luxor Temple,filtered,yes,yes,0,0,1,1,1
+Royal Opera House,The Shard,none,yes,no,1,0,0,0,0
+Royal Opera House,The Shard,all,yes,yes,0,0,1,0,0
+Royal Opera House,The Shard,filtered,yes,yes,0,0,1,0,0
+Dinefwr Castle,Tower of London,none,yes,no,1,0,0,0,0
+Dinefwr Castle,Tower of London,all,yes,yes,0,0,1,0,0
+Dinefwr Castle,Tower of London,filtered,yes,no,1,0,0,0,0
+Raglan Castle,Apollo Theatre,none,yes,no,1,0,0,0,1
+Raglan Castle,Apollo Theatre,all,yes,no,1,0,0,0,1
+Raglan Castle,Apollo Theatre,filtered,yes,no,1,0,0,0,1
+Acrisure Stadium,Dolby Theatre,none,yes,no,1,0,0,1,1
+Acrisure Stadium,Dolby Theatre,all,yes,yes,0,0,1,1,1
+Acrisure Stadium,Dolby Theatre,filtered,yes,yes,0,0,1,1,1
+Temple of Vespasian and Titus,Santa Costanza,none,yes,no,1,0,0,1,1
+Temple of Vespasian and Titus,Santa Costanza,all,yes,yes,0,0,1,1,1
+Temple of Vespasian and Titus,Santa Costanza,filtered,yes,yes,0,0,1,1,1
+Suez Stadium,Lighthouse of Alexandria,none,yes,no,1,0,0,1,1
+Suez Stadium,Lighthouse of Alexandria,all,yes,yes,0,0,1,1,1
+Suez Stadium,Lighthouse of Alexandria,filtered,yes,yes,0,0,1,1,1
+Metropolitan Museum of Art,Tropicana Las Vegas,none,yes,no,1,0,0,1,1
+Metropolitan Museum of Art,Tropicana Las Vegas,all,yes,yes,0,0,1,1,1
+Metropolitan Museum of Art,Tropicana Las Vegas,filtered,yes,yes,0,0,1,1,1
+Little Hagia Sophia,Dolmabahçe Palace,none,yes,yes,0,0,1,1,1
+Little Hagia Sophia,Dolmabahçe Palace,all,yes,yes,0,0,1,1,1
+Little Hagia Sophia,Dolmabahçe Palace,filtered,yes,unknown,0,1,0,1,1
+Volksparkstadion,Sanssouci Palace,none,yes,no,1,0,0,1,1
+Volksparkstadion,Sanssouci Palace,all,yes,yes,0,0,1,1,1
+Volksparkstadion,Sanssouci Palace,filtered,yes,yes,0,0,1,1,1
+Allianz Arena,Nymphenburg Palace,none,yes,no,1,0,0,1,1
+Allianz Arena,Nymphenburg Palace,all,yes,yes,0,0,1,1,1
+Allianz Arena,Nymphenburg Palace,filtered,yes,no,1,0,0,1,1
+Radio City Music Hall,Dolby Theatre,none,yes,no,1,0,0,1,1
+Radio City Music Hall,Dolby Theatre,all,yes,yes,0,0,1,1,1
+Radio City Music Hall,Dolby Theatre,filtered,yes,yes,0,0,1,1,1
+Neanderthal Museum,Munich Olympic Stadium,none,yes,no,1,0,0,1,1
+Neanderthal Museum,Munich Olympic Stadium,all,yes,yes,0,0,1,1,1
+Neanderthal Museum,Munich Olympic Stadium,filtered,yes,no,1,0,0,1,1
+Dalian Eton Center,Shanghai Tower,none,yes,no,1,0,0,0,0
+Dalian Eton Center,Shanghai Tower,all,yes,yes,0,0,1,0,0
+Dalian Eton Center,Shanghai Tower,filtered,yes,unknown,0,1,0,0,0
+Empire State Building,"The STRAT Hotel, Casino & SkyPod",none,yes,yes,0,0,1,1,1
+Empire State Building,"The STRAT Hotel, Casino & SkyPod",all,yes,yes,0,0,1,1,1
+Empire State Building,"The STRAT Hotel, Casino & SkyPod",filtered,yes,yes,0,0,1,1,1
+Jernvallen,Drottningholm Palace,none,yes,no,1,0,0,1,1
+Jernvallen,Drottningholm Palace,all,yes,yes,0,0,1,1,1
+Jernvallen,Drottningholm Palace,filtered,yes,yes,0,0,1,1,1
+St. Adalbert's church,Corpus Christi Basilica,none,yes,no,1,0,0,1,0
+St. Adalbert's church,Corpus Christi Basilica,all,yes,no,1,0,0,1,0
+St. Adalbert's church,Corpus Christi Basilica,filtered,yes,no,1,0,0,1,0
+Stade Vélodrome,Château de Saint-Cloud,none,yes,no,1,0,0,1,1
+Stade Vélodrome,Château de Saint-Cloud,all,yes,yes,0,0,1,1,1
+Stade Vélodrome,Château de Saint-Cloud,filtered,yes,yes,0,0,1,1,1
+Catania Cathedral,"San Saba, Rome",none,yes,no,1,0,0,1,1
+Catania Cathedral,"San Saba, Rome",all,yes,yes,0,0,1,1,1
+Catania Cathedral,"San Saba, Rome",filtered,yes,yes,0,0,1,1,1
+Temple of Heaven,Beijing National Stadium,none,yes,yes,0,0,1,0,0
+Temple of Heaven,Beijing National Stadium,all,yes,yes,0,0,1,0,0
+Temple of Heaven,Beijing National Stadium,filtered,yes,yes,0,0,1,0,0
+Hôtel Matignon,Château de Saint-Cloud,none,yes,no,1,0,0,1,1
+Hôtel Matignon,Château de Saint-Cloud,all,yes,yes,0,0,1,1,1
+Hôtel Matignon,Château de Saint-Cloud,filtered,yes,yes,0,0,1,1,1
+Catherine Palace,Kremlin Armoury,none,yes,yes,0,0,1,1,1
+Catherine Palace,Kremlin Armoury,all,yes,yes,0,0,1,1,1
+Catherine Palace,Kremlin Armoury,filtered,yes,yes,0,0,1,1,1
+Charlottenhof Palace,Wartburg,none,yes,no,1,0,0,1,1
+Charlottenhof Palace,Wartburg,all,yes,yes,0,0,1,1,1
+Charlottenhof Palace,Wartburg,filtered,yes,yes,0,0,1,1,1
+Wartburg,Aachen Cathedral,none,yes,no,1,0,0,1,1
+Wartburg,Aachen Cathedral,all,yes,yes,0,0,1,1,1
+Wartburg,Aachen Cathedral,filtered,yes,yes,0,0,1,1,1
+Neanderthal Museum,Friedrichswerder Church,none,yes,no,1,0,0,1,1
+Neanderthal Museum,Friedrichswerder Church,all,yes,yes,0,0,1,1,1
+Neanderthal Museum,Friedrichswerder Church,filtered,yes,yes,0,0,1,1,1
+Charlottenhof Palace,Buchenwald concentration camp,none,yes,no,1,0,0,1,1
+Charlottenhof Palace,Buchenwald concentration camp,all,yes,no,1,0,0,1,1
+Charlottenhof Palace,Buchenwald concentration camp,filtered,yes,no,1,0,0,1,1
+Marmorpalais,Neuschwanstein Castle,none,yes,no,1,0,0,1,1
+Marmorpalais,Neuschwanstein Castle,all,yes,yes,0,0,1,1,1
+Marmorpalais,Neuschwanstein Castle,filtered,yes,yes,0,0,1,1,1
+Sant'Andrea delle Fratte,Fénis Castle,none,yes,no,1,0,0,1,0
+Sant'Andrea delle Fratte,Fénis Castle,all,yes,no,1,0,0,1,0
+Sant'Andrea delle Fratte,Fénis Castle,filtered,yes,no,1,0,0,1,0
+"The STRAT Hotel, Casino & SkyPod",30 Park Place,none,yes,no,1,0,0,1,1
+"The STRAT Hotel, Casino & SkyPod",30 Park Place,all,yes,yes,0,0,1,1,1
+"The STRAT Hotel, Casino & SkyPod",30 Park Place,filtered,yes,yes,0,0,1,1,1
+Charlottenhof Palace,Aachen Cathedral,none,yes,no,1,0,0,1,1
+Charlottenhof Palace,Aachen Cathedral,all,yes,yes,0,0,1,1,1
+Charlottenhof Palace,Aachen Cathedral,filtered,yes,no,1,0,0,1,1
+La Fortaleza,Smithsonian Institution,none,yes,no,1,0,0,0,1
+La Fortaleza,Smithsonian Institution,all,yes,no,1,0,0,0,1
+La Fortaleza,Smithsonian Institution,filtered,yes,no,1,0,0,0,1
+Tuileries Palace,Château de Montsoreau,none,yes,no,1,0,0,1,1
+Tuileries Palace,Château de Montsoreau,all,yes,yes,0,0,1,1,1
+Tuileries Palace,Château de Montsoreau,filtered,yes,no,1,0,0,1,1
+Metropolitan Museum of Art,30 Park Place,none,yes,no,1,0,0,1,1
+Metropolitan Museum of Art,30 Park Place,all,yes,yes,0,0,1,1,1
+Metropolitan Museum of Art,30 Park Place,filtered,yes,yes,0,0,1,1,1
+Lotus Temple,Ajanta Caves,none,yes,no,1,0,0,1,1
+Lotus Temple,Ajanta Caves,all,yes,yes,0,0,1,1,1
+Lotus Temple,Ajanta Caves,filtered,yes,yes,0,0,1,1,1
+Topkapı Palace,Little Hagia Sophia,none,yes,yes,0,0,1,1,1
+Topkapı Palace,Little Hagia Sophia,all,yes,yes,0,0,1,1,1
+Topkapı Palace,Little Hagia Sophia,filtered,yes,yes,0,0,1,1,1
+Hôtel Matignon,Guédelon Castle,none,yes,no,1,0,0,1,1
+Hôtel Matignon,Guédelon Castle,all,yes,yes,0,0,1,1,1
+Hôtel Matignon,Guédelon Castle,filtered,yes,yes,0,0,1,1,1
+"The STRAT Hotel, Casino & SkyPod",Nu Stadium,none,yes,no,1,0,0,1,0
+"The STRAT Hotel, Casino & SkyPod",Nu Stadium,all,yes,no,1,0,0,1,0
+"The STRAT Hotel, Casino & SkyPod",Nu Stadium,filtered,yes,no,1,0,0,1,0
+St. Francis Church,Lotus Temple,none,yes,no,1,0,0,0,1
+St. Francis Church,Lotus Temple,all,yes,no,1,0,0,0,1
+St. Francis Church,Lotus Temple,filtered,yes,no,1,0,0,0,1
+Edinburgh Castle,Urquhart Castle,none,yes,no,1,0,0,0,0
+Edinburgh Castle,Urquhart Castle,all,yes,yes,0,0,1,0,0
+Edinburgh Castle,Urquhart Castle,filtered,yes,yes,0,0,1,0,0
+Raglan Castle,Royal Opera House,none,yes,no,1,0,0,0,0
+Raglan Castle,Royal Opera House,all,yes,no,1,0,0,0,0
+Raglan Castle,Royal Opera House,filtered,yes,no,1,0,0,0,0
+Catherine Palace,Kremlin Armoury,none,yes,yes,0,0,1,1,1
+Catherine Palace,Kremlin Armoury,all,yes,yes,0,0,1,1,1
+Catherine Palace,Kremlin Armoury,filtered,yes,yes,0,0,1,1,1
+Église du Val-de-Grâce,Stade Vélodrome,none,yes,no,1,0,0,1,1
+Église du Val-de-Grâce,Stade Vélodrome,all,yes,no,1,0,0,1,1
+Église du Val-de-Grâce,Stade Vélodrome,filtered,yes,no,1,0,0,1,1
+Dynamo Stadium,Winter Palace,none,yes,no,1,0,0,0,1
+Dynamo Stadium,Winter Palace,all,yes,yes,0,0,1,0,1
+Dynamo Stadium,Winter Palace,filtered,yes,yes,0,0,1,0,1
+Uffizi Gallery,Sant'Andrea delle Fratte,none,yes,no,1,0,0,1,1
+Uffizi Gallery,Sant'Andrea delle Fratte,all,yes,yes,0,0,1,1,1
+Uffizi Gallery,Sant'Andrea delle Fratte,filtered,yes,yes,0,0,1,1,1
+Église du Val-de-Grâce,Tuileries Palace,none,yes,no,1,0,0,1,1
+Église du Val-de-Grâce,Tuileries Palace,all,yes,yes,0,0,1,1,1
+Église du Val-de-Grâce,Tuileries Palace,filtered,yes,yes,0,0,1,1,1
+Chrysler Building,Metropolitan Museum of Art,none,yes,no,1,0,0,1,1
+Chrysler Building,Metropolitan Museum of Art,all,yes,yes,0,0,1,1,1
+Chrysler Building,Metropolitan Museum of Art,filtered,yes,yes,0,0,1,1,1
+Tour D2,Saint-Pierre de Montmartre,none,yes,no,1,0,0,1,1
+Tour D2,Saint-Pierre de Montmartre,all,yes,yes,0,0,1,1,1
+Tour D2,Saint-Pierre de Montmartre,filtered,yes,yes,0,0,1,1,1
+Frankenstein Castle,Neanderthal Museum,none,yes,no,1,0,0,1,1
+Frankenstein Castle,Neanderthal Museum,all,yes,yes,0,0,1,1,1
+Frankenstein Castle,Neanderthal Museum,filtered,yes,yes,0,0,1,1,1
+Bernabéu,Sorolla Museum,none,yes,no,1,0,0,1,1
+Bernabéu,Sorolla Museum,all,yes,yes,0,0,1,1,1
+Bernabéu,Sorolla Museum,filtered,yes,yes,0,0,1,1,1
+Złote Tarasy,Auschwitz,none,yes,no,1,0,0,1,1
+Złote Tarasy,Auschwitz,all,yes,yes,0,0,1,1,1
+Złote Tarasy,Auschwitz,filtered,yes,yes,0,0,1,1,1
+Palace of Versailles,Stade de Roudourou,none,yes,no,1,0,0,1,1
+Palace of Versailles,Stade de Roudourou,all,yes,yes,0,0,1,1,1
+Palace of Versailles,Stade de Roudourou,filtered,yes,yes,0,0,1,1,1
+Église du Val-de-Grâce,Panthéon,none,yes,no,1,0,0,1,1
+Église du Val-de-Grâce,Panthéon,all,yes,yes,0,0,1,1,1
+Église du Val-de-Grâce,Panthéon,filtered,yes,yes,0,0,1,1,1
+Medici Chapels,Uffizi Gallery,none,yes,yes,0,0,1,1,1
+Medici Chapels,Uffizi Gallery,all,yes,yes,0,0,1,1,1
+Medici Chapels,Uffizi Gallery,filtered,yes,yes,0,0,1,1,1
+Marmorpalais,Aachen Cathedral,none,yes,no,1,0,0,1,1
+Marmorpalais,Aachen Cathedral,all,yes,yes,0,0,1,1,1
+Marmorpalais,Aachen Cathedral,filtered,yes,yes,0,0,1,1,1
+Tantallon Castle,Urquhart Castle,none,yes,no,1,0,0,0,0
+Tantallon Castle,Urquhart Castle,all,yes,yes,0,0,1,0,0
+Tantallon Castle,Urquhart Castle,filtered,yes,yes,0,0,1,0,0
+30 Park Place,Dolby Theatre,none,yes,no,1,0,0,1,1
+30 Park Place,Dolby Theatre,all,yes,yes,0,0,1,1,1
+30 Park Place,Dolby Theatre,filtered,yes,yes,0,0,1,1,1
+Beylerbeyi Palace,The Museum of Innocence,none,yes,no,1,0,0,1,1
+Beylerbeyi Palace,The Museum of Innocence,all,yes,yes,0,0,1,1,1
+Beylerbeyi Palace,The Museum of Innocence,filtered,yes,yes,0,0,1,1,1
+Forbidden City,Gate to the East,none,yes,no,1,0,0,0,0
+Forbidden City,Gate to the East,all,yes,yes,0,0,1,0,0
+Forbidden City,Gate to the East,filtered,yes,yes,0,0,1,0,0
+Forbidden City,Gate to the East,none,yes,no,1,0,0,0,0
+Forbidden City,Gate to the East,all,yes,yes,0,0,1,0,0
+Forbidden City,Gate to the East,filtered,yes,yes,0,0,1,0,0
+Lotus Temple,St. Francis Church,none,yes,no,1,0,0,1,0
+Lotus Temple,St. Francis Church,all,yes,no,1,0,0,1,0
+Lotus Temple,St. Francis Church,filtered,yes,no,1,0,0,1,0
+Saint Isaac's Cathedral,Hermitage Museum,none,yes,yes,0,0,1,1,1
+Saint Isaac's Cathedral,Hermitage Museum,all,yes,yes,0,0,1,1,1
+Saint Isaac's Cathedral,Hermitage Museum,filtered,yes,yes,0,0,1,1,1
+Windsor Castle,Tantallon Castle,none,yes,no,1,0,0,0,0
+Windsor Castle,Tantallon Castle,all,yes,yes,0,0,1,0,0
+Windsor Castle,Tantallon Castle,filtered,yes,yes,0,0,1,0,0
+Neuschwanstein Castle,Arena AufSchalke,none,yes,no,1,0,0,1,1
+Neuschwanstein Castle,Arena AufSchalke,all,yes,yes,0,0,1,1,1
+Neuschwanstein Castle,Arena AufSchalke,filtered,yes,yes,0,0,1,1,1
+Arena AufSchalke,Wartburg,none,yes,no,1,0,0,1,1
+Arena AufSchalke,Wartburg,all,yes,yes,0,0,1,1,1
+Arena AufSchalke,Wartburg,filtered,yes,yes,0,0,1,1,1
+Bolshoi Theatre,Hermitage Museum,none,yes,no,1,0,0,1,1
+Bolshoi Theatre,Hermitage Museum,all,yes,yes,0,0,1,1,1
+Bolshoi Theatre,Hermitage Museum,filtered,yes,yes,0,0,1,1,1
+Corpus Christi Basilica,Kazimierz Górski National Stadium,none,yes,no,1,0,0,0,1
+Corpus Christi Basilica,Kazimierz Górski National Stadium,all,yes,no,1,0,0,0,1
+Corpus Christi Basilica,Kazimierz Górski National Stadium,filtered,yes,no,1,0,0,0,1
+Milan Cathedral,Santa Maria in Campitelli,none,yes,no,1,0,0,1,1
+Milan Cathedral,Santa Maria in Campitelli,all,yes,yes,0,0,1,1,1
+Milan Cathedral,Santa Maria in Campitelli,filtered,yes,yes,0,0,1,1,1
+Palace of Capodimonte,Uffizi Gallery,none,yes,no,1,0,0,1,1
+Palace of Capodimonte,Uffizi Gallery,all,yes,yes,0,0,1,1,1
+Palace of Capodimonte,Uffizi Gallery,filtered,yes,yes,0,0,1,1,1
+Milan Cathedral,Tharros,none,yes,no,1,0,0,1,1
+Milan Cathedral,Tharros,all,yes,no,1,0,0,1,1
+Milan Cathedral,Tharros,filtered,yes,no,1,0,0,1,1
+Sacré-Cœur,Hôtel Matignon,none,yes,no,1,0,0,1,1
+Sacré-Cœur,Hôtel Matignon,all,yes,yes,0,0,1,1,1
+Sacré-Cœur,Hôtel Matignon,filtered,yes,yes,0,0,1,1,1
+Ukrainian National Chornobyl Museum,Palanok Castle,none,yes,no,1,0,0,1,0
+Ukrainian National Chornobyl Museum,Palanok Castle,all,yes,no,1,0,0,1,0
+Ukrainian National Chornobyl Museum,Palanok Castle,filtered,yes,no,1,0,0,1,0
+Temple of Vespasian and Titus,Castel Sant'Angelo,none,yes,yes,0,0,1,1,1
+Temple of Vespasian and Titus,Castel Sant'Angelo,all,yes,yes,0,0,1,1,1
+Temple of Vespasian and Titus,Castel Sant'Angelo,filtered,yes,yes,0,0,1,1,1
+San Moisè,Palace of Capodimonte,none,yes,no,1,0,0,1,1
+San Moisè,Palace of Capodimonte,all,yes,yes,0,0,1,1,1
+San Moisè,Palace of Capodimonte,filtered,yes,yes,0,0,1,1,1
+Daegu Stadium,Kigali Genocide Memorial,none,no,no,0,0,1,1,1
+Daegu Stadium,Kigali Genocide Memorial,all,no,no,0,0,1,1,1
+Daegu Stadium,Kigali Genocide Memorial,filtered,no,unknown,0,1,0,1,1
+Acrisure Stadium,Van Gogh Museum,none,no,no,0,0,1,1,1
+Acrisure Stadium,Van Gogh Museum,all,no,no,0,0,1,1,1
+Acrisure Stadium,Van Gogh Museum,filtered,no,no,0,0,1,1,1
+Wartburg,Willis Tower,none,no,no,0,0,1,1,1
+Wartburg,Willis Tower,all,no,no,0,0,1,1,1
+Wartburg,Willis Tower,filtered,no,no,0,0,1,1,1
+Bastille,Auschwitz,none,no,no,0,0,1,1,1
+Bastille,Auschwitz,all,no,no,0,0,1,1,1
+Bastille,Auschwitz,filtered,no,no,0,0,1,1,1
+Abeno Harukas,Dynamo Stadium,none,no,no,0,0,1,1,0
+Abeno Harukas,Dynamo Stadium,all,no,no,0,0,1,1,0
+Abeno Harukas,Dynamo Stadium,filtered,no,no,0,0,1,1,0
+Torre PwC,Franciscan Church and Monastery,none,no,no,0,0,1,1,0
+Torre PwC,Franciscan Church and Monastery,all,no,no,0,0,1,1,0
+Torre PwC,Franciscan Church and Monastery,filtered,no,no,0,0,1,1,0
+Corpus Christi Basilica,Lumpinee Boxing Stadium,none,no,no,0,0,1,0,1
+Corpus Christi Basilica,Lumpinee Boxing Stadium,all,no,no,0,0,1,0,1
+Corpus Christi Basilica,Lumpinee Boxing Stadium,filtered,no,no,0,0,1,0,1
+Beylerbeyi Palace,"Church of St. George, Staro Nagoričane",none,no,no,0,0,1,1,0
+Beylerbeyi Palace,"Church of St. George, Staro Nagoričane",all,no,no,0,0,1,1,0
+Beylerbeyi Palace,"Church of St. George, Staro Nagoričane",filtered,no,no,0,0,1,1,0
+Temple of Jupiter Optimus Maximus,Sausalito Stadium,none,no,no,0,0,1,1,0
+Temple of Jupiter Optimus Maximus,Sausalito Stadium,all,no,no,0,0,1,1,0
+Temple of Jupiter Optimus Maximus,Sausalito Stadium,filtered,no,unknown,0,1,0,1,0
+L'archipel,Jernvallen,none,no,no,0,0,1,1,1
+L'archipel,Jernvallen,all,no,no,0,0,1,1,1
+L'archipel,Jernvallen,filtered,no,no,0,0,1,1,1
+Tuileries Palace,Dynamo Stadium,none,no,no,0,0,1,1,0
+Tuileries Palace,Dynamo Stadium,all,no,no,0,0,1,1,0
+Tuileries Palace,Dynamo Stadium,filtered,no,no,0,0,1,1,0
+Forsyth Barr Stadium,Hagia Sophia,none,no,no,0,0,1,1,1
+Forsyth Barr Stadium,Hagia Sophia,all,no,no,0,0,1,1,1
+Forsyth Barr Stadium,Hagia Sophia,filtered,no,no,0,0,1,1,1
+Hofburg Palace,"San Saba, Rome",none,no,no,0,0,1,1,1
+Hofburg Palace,"San Saba, Rome",all,no,yes,1,0,0,1,1
+Hofburg Palace,"San Saba, Rome",filtered,no,unknown,0,1,0,1,1
+Nu Stadium,Château de Montsoreau,none,no,no,0,0,1,0,1
+Nu Stadium,Château de Montsoreau,all,no,no,0,0,1,0,1
+Nu Stadium,Château de Montsoreau,filtered,no,unknown,0,1,0,0,1
+Ukrainian National Chornobyl Museum,"Church of St. George, Staro Nagoričane",none,no,no,0,0,1,1,0
+Ukrainian National Chornobyl Museum,"Church of St. George, Staro Nagoričane",all,no,no,0,0,1,1,0
+Ukrainian National Chornobyl Museum,"Church of St. George, Staro Nagoričane",filtered,no,no,0,0,1,1,0
+Planet Group arena,Abeno Harukas,none,no,no,0,0,1,0,1
+Planet Group arena,Abeno Harukas,all,no,no,0,0,1,0,1
+Planet Group arena,Abeno Harukas,filtered,no,no,0,0,1,0,1
+British Museum,Medici Chapels,none,no,no,0,0,1,0,1
+British Museum,Medici Chapels,all,no,no,0,0,1,0,1
+British Museum,Medici Chapels,filtered,no,no,0,0,1,0,1
+Hermitage Museum,Malbork Castle,none,no,no,0,0,1,1,1
+Hermitage Museum,Malbork Castle,all,no,no,0,0,1,1,1
+Hermitage Museum,Malbork Castle,filtered,no,unknown,0,1,0,1,1
+Tower of Hercules,Cape Town Stadium,none,no,no,0,0,1,1,1
+Tower of Hercules,Cape Town Stadium,all,no,no,0,0,1,1,1
+Tower of Hercules,Cape Town Stadium,filtered,no,no,0,0,1,1,1
+Mordovia Arena,Palace of Versailles,none,no,no,0,0,1,1,1
+Mordovia Arena,Palace of Versailles,all,no,no,0,0,1,1,1
+Mordovia Arena,Palace of Versailles,filtered,no,no,0,0,1,1,1
+Colosseum,London Eye,none,no,no,0,0,1,1,0
+Colosseum,London Eye,all,no,no,0,0,1,1,0
+Colosseum,London Eye,filtered,no,no,0,0,1,1,0
+Colosseum,Gabala City Stadium,none,no,no,0,0,1,1,1
+Colosseum,Gabala City Stadium,all,no,no,0,0,1,1,1
+Colosseum,Gabala City Stadium,filtered,no,no,0,0,1,1,1
+Leh Palace,Torre PwC,none,no,no,0,0,1,1,1
+Leh Palace,Torre PwC,all,no,no,0,0,1,1,1
+Leh Palace,Torre PwC,filtered,no,no,0,0,1,1,1
+Apostolic Palace,Warner Park Sporting Complex,none,no,no,0,0,1,1,0
+Apostolic Palace,Warner Park Sporting Complex,all,no,no,0,0,1,1,0
+Apostolic Palace,Warner Park Sporting Complex,filtered,no,unknown,0,1,0,1,0
+Ukrainian National Chornobyl Museum,Rostov Arena,none,no,no,0,0,1,1,1
+Ukrainian National Chornobyl Museum,Rostov Arena,all,no,yes,1,0,0,1,1
+Ukrainian National Chornobyl Museum,Rostov Arena,filtered,no,yes,1,0,0,1,1
+Khalifa International Stadium,Gate to the East,none,no,no,0,0,1,1,0
+Khalifa International Stadium,Gate to the East,all,no,no,0,0,1,1,0
+Khalifa International Stadium,Gate to the East,filtered,no,no,0,0,1,1,0
+Hôtel Matignon,Koluvere Castle,none,no,no,0,0,1,1,1
+Hôtel Matignon,Koluvere Castle,all,no,no,0,0,1,1,1
+Hôtel Matignon,Koluvere Castle,filtered,no,no,0,0,1,1,1
+Lotus Temple,Marmorpalais,none,no,no,0,0,1,1,1
+Lotus Temple,Marmorpalais,all,no,no,0,0,1,1,1
+Lotus Temple,Marmorpalais,filtered,no,no,0,0,1,1,1
+Kremlin Armoury,Santa Maria in Campitelli,none,no,no,0,0,1,1,1
+Kremlin Armoury,Santa Maria in Campitelli,all,no,no,0,0,1,1,1
+Kremlin Armoury,Santa Maria in Campitelli,filtered,no,no,0,0,1,1,1
+Château de Saint-Cloud,Castle of Guimarães,none,no,no,0,0,1,1,1
+Château de Saint-Cloud,Castle of Guimarães,all,no,no,0,0,1,1,1
+Château de Saint-Cloud,Castle of Guimarães,filtered,no,no,0,0,1,1,1
+Saint Gayane Church,Kronborg Castle,none,no,no,0,0,1,1,1
+Saint Gayane Church,Kronborg Castle,all,no,no,0,0,1,1,1
+Saint Gayane Church,Kronborg Castle,filtered,no,unknown,0,1,0,1,1
+Dalian Eton Center,Winter Palace,none,no,no,0,0,1,0,1
+Dalian Eton Center,Winter Palace,all,no,no,0,0,1,0,1
+Dalian Eton Center,Winter Palace,filtered,no,unknown,0,1,0,0,1
+Stade de la Mosson,Church of Saints Simon and Helena,none,no,no,0,0,1,1,0
+Stade de la Mosson,Church of Saints Simon and Helena,all,no,no,0,0,1,1,0
+Stade de la Mosson,Church of Saints Simon and Helena,filtered,no,no,0,0,1,1,0
+Gül Mosque,Leh Palace,none,no,no,0,0,1,1,1
+Gül Mosque,Leh Palace,all,no,no,0,0,1,1,1
+Gül Mosque,Leh Palace,filtered,no,no,0,0,1,1,1
+Palace of Fontainebleau,Castel Sant'Angelo,none,no,no,0,0,1,1,1
+Palace of Fontainebleau,Castel Sant'Angelo,all,no,yes,1,0,0,1,1
+Palace of Fontainebleau,Castel Sant'Angelo,filtered,no,yes,1,0,0,1,1
+Cape Town Stadium,Kunsthistorisches Museum,none,no,no,0,0,1,1,1
+Cape Town Stadium,Kunsthistorisches Museum,all,no,no,0,0,1,1,1
+Cape Town Stadium,Kunsthistorisches Museum,filtered,no,no,0,0,1,1,1
+St. Alexander's Church,Tsaritsyno Park + palace,none,no,yes,1,0,0,0,1
+St. Alexander's Church,Tsaritsyno Park + palace,all,no,yes,1,0,0,0,1
+St. Alexander's Church,Tsaritsyno Park + palace,filtered,no,yes,1,0,0,0,1
+Tower of London,Jernvallen,none,no,no,0,0,1,0,1
+Tower of London,Jernvallen,all,no,no,0,0,1,0,1
+Tower of London,Jernvallen,filtered,no,no,0,0,1,0,1
+Palace of Viceroy Laserna,Catherine Palace,none,no,no,0,0,1,0,1
+Palace of Viceroy Laserna,Catherine Palace,all,no,no,0,0,1,0,1
+Palace of Viceroy Laserna,Catherine Palace,filtered,no,no,0,0,1,0,1
+Forsyth Barr Stadium,Gamla bron,none,no,no,0,0,1,1,1
+Forsyth Barr Stadium,Gamla bron,all,no,no,0,0,1,1,1
+Forsyth Barr Stadium,Gamla bron,filtered,no,no,0,0,1,1,1
+Apostolic Palace,Luxor Temple,none,no,no,0,0,1,1,1
+Apostolic Palace,Luxor Temple,all,no,no,0,0,1,1,1
+Apostolic Palace,Luxor Temple,filtered,no,no,0,0,1,1,1
+St. Alexander's Church,Kufstein Fortress,none,no,no,0,0,1,0,1
+St. Alexander's Church,Kufstein Fortress,all,no,no,0,0,1,0,1
+St. Alexander's Church,Kufstein Fortress,filtered,no,no,0,0,1,0,1
+Frankenstein Castle,Hampden Park,none,no,no,0,0,1,1,0
+Frankenstein Castle,Hampden Park,all,no,no,0,0,1,1,0
+Frankenstein Castle,Hampden Park,filtered,no,no,0,0,1,1,0
+Palace of Capodimonte,Kronborg Castle,none,no,no,0,0,1,1,1
+Palace of Capodimonte,Kronborg Castle,all,no,no,0,0,1,1,1
+Palace of Capodimonte,Kronborg Castle,filtered,no,unknown,0,1,0,1,1
+Arena AufSchalke,Tsaritsyno Park + palace,none,no,no,0,0,1,1,1
+Arena AufSchalke,Tsaritsyno Park + palace,all,no,no,0,0,1,1,1
+Arena AufSchalke,Tsaritsyno Park + palace,filtered,no,unknown,0,1,0,1,1
+Tretyakov Gallery,FNB Stadium,none,no,no,0,0,1,1,1
+Tretyakov Gallery,FNB Stadium,all,no,no,0,0,1,1,1
+Tretyakov Gallery,FNB Stadium,filtered,no,unknown,0,1,0,1,1
+Friedrichswerder Church,Frederiksberg Palace,none,no,no,0,0,1,1,1
+Friedrichswerder Church,Frederiksberg Palace,all,no,yes,1,0,0,1,1
+Friedrichswerder Church,Frederiksberg Palace,filtered,no,no,0,0,1,1,1
+Alhambra,Taipei 101,none,no,no,0,0,1,1,1
+Alhambra,Taipei 101,all,no,no,0,0,1,1,1
+Alhambra,Taipei 101,filtered,no,no,0,0,1,1,1
+Palace of Fontainebleau,Temple of Vespasian and Titus,none,no,no,0,0,1,1,1
+Palace of Fontainebleau,Temple of Vespasian and Titus,all,no,yes,1,0,0,1,1
+Palace of Fontainebleau,Temple of Vespasian and Titus,filtered,no,yes,1,0,0,1,1
+Mordovia Arena,Artstetten Castle,none,no,no,0,0,1,1,1
+Mordovia Arena,Artstetten Castle,all,no,no,0,0,1,1,1
+Mordovia Arena,Artstetten Castle,filtered,no,no,0,0,1,1,1
+Chapultepec Castle,Dalian Eton Center,none,no,no,0,0,1,1,0
+Chapultepec Castle,Dalian Eton Center,all,no,no,0,0,1,1,0
+Chapultepec Castle,Dalian Eton Center,filtered,no,unknown,0,1,0,1,0
+Hermitage Museum,Petronas Towers,none,no,no,0,0,1,1,1
+Hermitage Museum,Petronas Towers,all,no,no,0,0,1,1,1
+Hermitage Museum,Petronas Towers,filtered,no,no,0,0,1,1,1
+Forsyth Barr Stadium,Ryugyong Hotel,none,no,no,0,0,1,1,1
+Forsyth Barr Stadium,Ryugyong Hotel,all,no,unknown,0,1,0,1,1
+Forsyth Barr Stadium,Ryugyong Hotel,filtered,no,unknown,0,1,0,1,1
+Gamla bron,Herculaneum,none,no,no,0,0,1,1,1
+Gamla bron,Herculaneum,all,no,no,0,0,1,1,1
+Gamla bron,Herculaneum,filtered,no,no,0,0,1,1,1
+Château de Saumur,Parken Stadium,none,no,no,0,0,1,1,1
+Château de Saumur,Parken Stadium,all,no,no,0,0,1,1,1
+Château de Saumur,Parken Stadium,filtered,no,no,0,0,1,1,1
+Fénis Castle,Pergamon Museum,none,no,no,0,0,1,0,0
+Fénis Castle,Pergamon Museum,all,no,no,0,0,1,0,0
+Fénis Castle,Pergamon Museum,filtered,no,yes,1,0,0,0,0
+Dinefwr Castle,Neuschwanstein Castle,none,no,no,0,0,1,0,1
+Dinefwr Castle,Neuschwanstein Castle,all,no,no,0,0,1,0,1
+Dinefwr Castle,Neuschwanstein Castle,filtered,no,no,0,0,1,0,1
+Gran Teatro de La Habana,Volksparkstadion,none,no,no,0,0,1,1,1
+Gran Teatro de La Habana,Volksparkstadion,all,no,no,0,0,1,1,1
+Gran Teatro de La Habana,Volksparkstadion,filtered,no,no,0,0,1,1,1
+Gate to the East,Aachen Cathedral,none,no,no,0,0,1,0,1
+Gate to the East,Aachen Cathedral,all,no,no,0,0,1,0,1
+Gate to the East,Aachen Cathedral,filtered,no,unknown,0,1,0,0,1
+Neanderthal Museum,Windsor Castle,none,no,no,0,0,1,1,0
+Neanderthal Museum,Windsor Castle,all,no,no,0,0,1,1,0
+Neanderthal Museum,Windsor Castle,filtered,no,no,0,0,1,1,0
+Frederiksberg Palace,Baba Vida,none,no,no,0,0,1,1,0
+Frederiksberg Palace,Baba Vida,all,no,no,0,0,1,1,0
+Frederiksberg Palace,Baba Vida,filtered,no,unknown,0,1,0,1,0
+Santa Costanza,Malbork Castle,none,no,no,0,0,1,1,1
+Santa Costanza,Malbork Castle,all,no,no,0,0,1,1,1
+Santa Costanza,Malbork Castle,filtered,no,unknown,0,1,0,1,1
+Moshe Aviv Tower,Forsyth Barr Stadium,none,no,no,0,0,1,1,1
+Moshe Aviv Tower,Forsyth Barr Stadium,all,no,no,0,0,1,1,1
+Moshe Aviv Tower,Forsyth Barr Stadium,filtered,no,no,0,0,1,1,1
+Tsaritsyno Park + palace,Aachen Cathedral,none,no,no,0,0,1,1,1
+Tsaritsyno Park + palace,Aachen Cathedral,all,no,yes,1,0,0,1,1
+Tsaritsyno Park + palace,Aachen Cathedral,filtered,no,unknown,0,1,0,1,1
+Tour D2,Old Castle,none,no,no,0,0,1,1,0
+Tour D2,Old Castle,all,no,no,0,0,1,1,0
+Tour D2,Old Castle,filtered,no,no,0,0,1,1,0
+Alhambra,Saint Isaac's Cathedral,none,no,no,0,0,1,1,1
+Alhambra,Saint Isaac's Cathedral,all,no,no,0,0,1,1,1
+Alhambra,Saint Isaac's Cathedral,filtered,no,no,0,0,1,1,1
+Kigali Genocide Memorial,Allianz Arena,none,no,no,0,0,1,1,1
+Kigali Genocide Memorial,Allianz Arena,all,no,no,0,0,1,1,1
+Kigali Genocide Memorial,Allianz Arena,filtered,no,no,0,0,1,1,1
+Acrisure Stadium,Vicarage Road,none,no,no,0,0,1,1,0
+Acrisure Stadium,Vicarage Road,all,no,no,0,0,1,1,0
+Acrisure Stadium,Vicarage Road,filtered,no,no,0,0,1,1,0
+Ukrainian National Chornobyl Museum,Château de Castelnaud-la-Chapelle,none,no,no,0,0,1,1,1
+Ukrainian National Chornobyl Museum,Château de Castelnaud-la-Chapelle,all,no,no,0,0,1,1,1
+Ukrainian National Chornobyl Museum,Château de Castelnaud-la-Chapelle,filtered,no,no,0,0,1,1,1
+Johan Cruyff Arena,Kazimierz Górski National Stadium,none,no,no,0,0,1,1,1
+Johan Cruyff Arena,Kazimierz Górski National Stadium,all,no,no,0,0,1,1,1
+Johan Cruyff Arena,Kazimierz Górski National Stadium,filtered,no,no,0,0,1,1,1
+Hampton Court Palace,St. Mark's Church in Zagreb,none,no,no,0,0,1,0,1
+Hampton Court Palace,St. Mark's Church in Zagreb,all,no,yes,1,0,0,0,1
+Hampton Court Palace,St. Mark's Church in Zagreb,filtered,no,yes,1,0,0,0,1
+Cathedral of Santiago de Compostela,Ernst-Happel-Stadion,none,no,no,0,0,1,1,1
+Cathedral of Santiago de Compostela,Ernst-Happel-Stadion,all,no,no,0,0,1,1,1
+Cathedral of Santiago de Compostela,Ernst-Happel-Stadion,filtered,no,no,0,0,1,1,1
+Alhambra,Kensington Palace,none,no,no,0,0,1,1,0
+Alhambra,Kensington Palace,all,no,no,0,0,1,1,0
+Alhambra,Kensington Palace,filtered,no,no,0,0,1,1,0
+Old Castle,Moszna Castle,none,no,no,0,0,1,0,1
+Old Castle,Moszna Castle,all,no,yes,1,0,0,0,1
+Old Castle,Moszna Castle,filtered,no,yes,1,0,0,0,1
+Belém Tower,La Fortaleza,none,no,no,0,0,1,1,0
+Belém Tower,La Fortaleza,all,no,no,0,0,1,1,0
+Belém Tower,La Fortaleza,filtered,no,no,0,0,1,1,0
+Tropicana Las Vegas,Neanderthal Museum,none,no,no,0,0,1,1,1
+Tropicana Las Vegas,Neanderthal Museum,all,no,no,0,0,1,1,1
+Tropicana Las Vegas,Neanderthal Museum,filtered,no,no,0,0,1,1,1
+Auschwitz,Khalifa International Stadium,none,no,no,0,0,1,1,1
+Auschwitz,Khalifa International Stadium,all,no,no,0,0,1,1,1
+Auschwitz,Khalifa International Stadium,filtered,no,no,0,0,1,1,1
+Apollo Theatre,Tour D2,none,no,no,0,0,1,1,1
+Apollo Theatre,Tour D2,all,no,no,0,0,1,1,1
+Apollo Theatre,Tour D2,filtered,no,no,0,0,1,1,1
+Volksparkstadion,Ernst-Happel-Stadion,none,no,no,0,0,1,1,1
+Volksparkstadion,Ernst-Happel-Stadion,all,no,yes,1,0,0,1,1
+Volksparkstadion,Ernst-Happel-Stadion,filtered,no,yes,1,0,0,1,1
+MHPArena,Palace of Viceroy Laserna,none,no,no,0,0,1,0,0
+MHPArena,Palace of Viceroy Laserna,all,no,no,0,0,1,0,0
+MHPArena,Palace of Viceroy Laserna,filtered,no,no,0,0,1,0,0
+Pergamon Museum,Artstetten Castle,none,no,no,0,0,1,0,1
+Pergamon Museum,Artstetten Castle,all,no,no,0,0,1,0,1
+Pergamon Museum,Artstetten Castle,filtered,no,no,0,0,1,0,1
+Bastille,Rostec Arena,none,no,no,0,0,1,1,1
+Bastille,Rostec Arena,all,no,no,0,0,1,1,1
+Bastille,Rostec Arena,filtered,no,no,0,0,1,1,1
+Abraj Al Bait,Charlottenhof Palace,none,no,no,0,0,1,1,1
+Abraj Al Bait,Charlottenhof Palace,all,no,no,0,0,1,1,1
+Abraj Al Bait,Charlottenhof Palace,filtered,no,no,0,0,1,1,1
+30 Park Place,The Museum of Innocence,none,no,no,0,0,1,1,1
+30 Park Place,The Museum of Innocence,all,no,no,0,0,1,1,1
+30 Park Place,The Museum of Innocence,filtered,no,no,0,0,1,1,1
+Catania Cathedral,The Exchange 106,none,no,no,0,0,1,1,0
+Catania Cathedral,The Exchange 106,all,no,no,0,0,1,1,0
+Catania Cathedral,The Exchange 106,filtered,no,no,0,0,1,1,0
+Karnak Temple Complex,Milan Cathedral,none,no,no,0,0,1,1,1
+Karnak Temple Complex,Milan Cathedral,all,no,no,0,0,1,1,1
+Karnak Temple Complex,Milan Cathedral,filtered,no,no,0,0,1,1,1
+Bolshoi Theatre,St. John's Church,none,no,no,0,0,1,1,0
+Bolshoi Theatre,St. John's Church,all,no,no,0,0,1,1,0
+Bolshoi Theatre,St. John's Church,filtered,no,no,0,0,1,1,0
+Beylerbeyi Palace,Château de Castelnaud-la-Chapelle,none,no,no,0,0,1,1,1
+Beylerbeyi Palace,Château de Castelnaud-la-Chapelle,all,no,no,0,0,1,1,1
+Beylerbeyi Palace,Château de Castelnaud-la-Chapelle,filtered,no,no,0,0,1,1,1
+Gabala City Stadium,Beylerbeyi Palace,none,no,no,0,0,1,1,1
+Gabala City Stadium,Beylerbeyi Palace,all,no,no,0,0,1,1,1
+Gabala City Stadium,Beylerbeyi Palace,filtered,no,unknown,0,1,0,1,1
+ArtScience Museum,Auschwitz,none,no,no,0,0,1,1,1
+ArtScience Museum,Auschwitz,all,no,no,0,0,1,1,1
+ArtScience Museum,Auschwitz,filtered,no,no,0,0,1,1,1
+Temple in Jerusalem,National Museum of Scotland,none,no,no,0,0,1,0,0
+Temple in Jerusalem,National Museum of Scotland,all,no,no,0,0,1,0,0
+Temple in Jerusalem,National Museum of Scotland,filtered,no,no,0,0,1,0,0
+Hermitage Museum,Koluvere Castle,none,no,no,0,0,1,1,1
+Hermitage Museum,Koluvere Castle,all,no,no,0,0,1,1,1
+Hermitage Museum,Koluvere Castle,filtered,no,no,0,0,1,1,1
+Laura Biathlon & Ski Complex,St. Mark's Church in Zagreb,none,no,yes,1,0,0,0,1
+Laura Biathlon & Ski Complex,St. Mark's Church in Zagreb,all,no,no,0,0,1,0,1
+Laura Biathlon & Ski Complex,St. Mark's Church in Zagreb,filtered,no,no,0,0,1,0,1
+Stade Vélodrome,Uffizi Gallery,none,no,no,0,0,1,1,1
+Stade Vélodrome,Uffizi Gallery,all,no,no,0,0,1,1,1
+Stade Vélodrome,Uffizi Gallery,filtered,no,unknown,0,1,0,1,1
+St. Jakob Stadium,Triangle,none,no,no,0,0,1,1,1
+St. Jakob Stadium,Triangle,all,no,no,0,0,1,1,1
+St. Jakob Stadium,Triangle,filtered,no,no,0,0,1,1,1
+Royal Opera House,Tsaritsyno Park + palace,none,no,no,0,0,1,0,1
+Royal Opera House,Tsaritsyno Park + palace,all,no,yes,1,0,0,0,1
+Royal Opera House,Tsaritsyno Park + palace,filtered,no,unknown,0,1,0,0,1
+Rostov Arena,Charlottenlund Palace,none,no,no,0,0,1,1,1
+Rostov Arena,Charlottenlund Palace,all,no,no,0,0,1,1,1
+Rostov Arena,Charlottenlund Palace,filtered,no,no,0,0,1,1,1
+Pergamon Museum,Tower of Hercules,none,no,no,0,0,1,0,1
+Pergamon Museum,Tower of Hercules,all,no,no,0,0,1,0,1
+Pergamon Museum,Tower of Hercules,filtered,no,no,0,0,1,0,1
+Old Sarum,Juliusz Słowacki Theatre,none,no,no,0,0,1,0,1
+Old Sarum,Juliusz Słowacki Theatre,all,no,no,0,0,1,0,1
+Old Sarum,Juliusz Słowacki Theatre,filtered,no,no,0,0,1,0,1
+Chrysler Building,Catania Cathedral,none,no,no,0,0,1,1,1
+Chrysler Building,Catania Cathedral,all,no,no,0,0,1,1,1
+Chrysler Building,Catania Cathedral,filtered,no,no,0,0,1,1,1
+Triangle,Tretyakov Gallery,none,no,no,0,0,1,1,1
+Triangle,Tretyakov Gallery,all,no,no,0,0,1,1,1
+Triangle,Tretyakov Gallery,filtered,no,no,0,0,1,1,1
+Kensington Palace,Medici Chapels,none,no,no,0,0,1,0,1
+Kensington Palace,Medici Chapels,all,no,no,0,0,1,0,1
+Kensington Palace,Medici Chapels,filtered,no,no,0,0,1,0,1
+Estadio José Rico Pérez,Estádio Nacional de Brasília,none,no,no,0,0,1,1,1
+Estadio José Rico Pérez,Estádio Nacional de Brasília,all,no,no,0,0,1,1,1
+Estadio José Rico Pérez,Estádio Nacional de Brasília,filtered,no,no,0,0,1,1,1
+Uffizi Gallery,The Exchange 106,none,no,no,0,0,1,1,0
+Uffizi Gallery,The Exchange 106,all,no,no,0,0,1,1,0
+Uffizi Gallery,The Exchange 106,filtered,no,unknown,0,1,0,1,0
+Macao Science Center,Willis Tower,none,no,no,0,0,1,0,1
+Macao Science Center,Willis Tower,all,no,no,0,0,1,0,1
+Macao Science Center,Willis Tower,filtered,no,no,0,0,1,0,1
+Dynamo Stadium,"Church of St. George, Staro Nagoričane",none,no,no,0,0,1,0,0
+Dynamo Stadium,"Church of St. George, Staro Nagoričane",all,no,no,0,0,1,0,0
+Dynamo Stadium,"Church of St. George, Staro Nagoričane",filtered,no,no,0,0,1,0,0
+Museum of Modern Art,Warner Park Sporting Complex,none,no,no,0,0,1,1,0
+Museum of Modern Art,Warner Park Sporting Complex,all,no,no,0,0,1,1,0
+Museum of Modern Art,Warner Park Sporting Complex,filtered,no,unknown,0,1,0,1,0
+Corpus Christi Basilica,Palace of Versailles,none,no,no,0,0,1,0,1
+Corpus Christi Basilica,Palace of Versailles,all,no,no,0,0,1,0,1
+Corpus Christi Basilica,Palace of Versailles,filtered,no,no,0,0,1,0,1
+Château de Castelnaud-la-Chapelle,St. Alexander's Church,none,no,no,0,0,1,1,0
+Château de Castelnaud-la-Chapelle,St. Alexander's Church,all,no,no,0,0,1,1,0
+Château de Castelnaud-la-Chapelle,St. Alexander's Church,filtered,no,no,0,0,1,1,0
+Castel Sant'Angelo,Auschwitz,none,no,no,0,0,1,1,1
+Castel Sant'Angelo,Auschwitz,all,no,no,0,0,1,1,1
+Castel Sant'Angelo,Auschwitz,filtered,no,no,0,0,1,1,1
+Windsor Castle,Tour D2,none,no,no,0,0,1,0,1
+Windsor Castle,Tour D2,all,no,no,0,0,1,0,1
+Windsor Castle,Tour D2,filtered,no,no,0,0,1,0,1
+Uffizi Gallery,Shimao International Plaza,none,no,no,0,0,1,1,0
+Uffizi Gallery,Shimao International Plaza,all,no,no,0,0,1,1,0
+Uffizi Gallery,Shimao International Plaza,filtered,no,unknown,0,1,0,1,0
+Santa Costanza,Château de Castelnaud-la-Chapelle,none,no,no,0,0,1,1,1
+Santa Costanza,Château de Castelnaud-la-Chapelle,all,no,no,0,0,1,1,1
+Santa Costanza,Château de Castelnaud-la-Chapelle,filtered,no,no,0,0,1,1,1
+Van Gogh Museum,Maracanã Stadium,none,no,no,0,0,1,1,1
+Van Gogh Museum,Maracanã Stadium,all,no,no,0,0,1,1,1
+Van Gogh Museum,Maracanã Stadium,filtered,no,no,0,0,1,1,1
+Geghard,Château de Saint-Cloud,none,no,no,0,0,1,1,1
+Geghard,Château de Saint-Cloud,all,no,no,0,0,1,1,1
+Geghard,Château de Saint-Cloud,filtered,no,no,0,0,1,1,1
+Frederiksberg Palace,Metropolitan Museum of Art,none,no,no,0,0,1,1,1
+Frederiksberg Palace,Metropolitan Museum of Art,all,no,no,0,0,1,1,1
+Frederiksberg Palace,Metropolitan Museum of Art,filtered,no,unknown,0,1,0,1,1
+Santa Maria in Campitelli,Mineirão,none,no,no,0,0,1,1,1
+Santa Maria in Campitelli,Mineirão,all,no,no,0,0,1,1,1
+Santa Maria in Campitelli,Mineirão,filtered,no,unknown,0,1,0,1,1
+FNB Stadium,Samara Arena,none,no,no,0,0,1,1,1
+FNB Stadium,Samara Arena,all,no,no,0,0,1,1,1
+FNB Stadium,Samara Arena,filtered,no,no,0,0,1,1,1
+ArtScience Museum,Great Strahov Stadium,none,no,no,0,0,1,1,1
+ArtScience Museum,Great Strahov Stadium,all,no,no,0,0,1,1,1
+ArtScience Museum,Great Strahov Stadium,filtered,no,no,0,0,1,1,1
+Chrysler Building,L'archipel,none,no,no,0,0,1,1,1
+Chrysler Building,L'archipel,all,no,no,0,0,1,1,1
+Chrysler Building,L'archipel,filtered,no,no,0,0,1,1,1
+Palace of Capodimonte,The Shard,none,no,no,0,0,1,1,0
+Palace of Capodimonte,The Shard,all,no,no,0,0,1,1,0
+Palace of Capodimonte,The Shard,filtered,no,no,0,0,1,1,0
+Hawa Mahal,Stari Most,none,no,no,0,0,1,1,1
+Hawa Mahal,Stari Most,all,no,no,0,0,1,1,1
+Hawa Mahal,Stari Most,filtered,no,no,0,0,1,1,1
+Centre Georges Pompidou,Tsaritsyno Park + palace,none,no,no,0,0,1,1,1
+Centre Georges Pompidou,Tsaritsyno Park + palace,all,no,yes,1,0,0,1,1
+Centre Georges Pompidou,Tsaritsyno Park + palace,filtered,no,unknown,0,1,0,1,1
+Balmoral Castle,FNB Stadium,none,no,no,0,0,1,0,1
+Balmoral Castle,FNB Stadium,all,no,no,0,0,1,0,1
+Balmoral Castle,FNB Stadium,filtered,no,no,0,0,1,0,1
+Špilberk Castle,Buchenwald concentration camp,none,no,no,0,0,1,1,1
+Špilberk Castle,Buchenwald concentration camp,all,no,no,0,0,1,1,1
+Špilberk Castle,Buchenwald concentration camp,filtered,no,no,0,0,1,1,1
+Juliusz Słowacki Theatre,MetLife Building,none,no,no,0,0,1,1,1
+Juliusz Słowacki Theatre,MetLife Building,all,no,no,0,0,1,1,1
+Juliusz Słowacki Theatre,MetLife Building,filtered,no,no,0,0,1,1,1
+Château de Saumur,Urquhart Castle,none,no,no,0,0,1,1,0
+Château de Saumur,Urquhart Castle,all,no,no,0,0,1,1,0
+Château de Saumur,Urquhart Castle,filtered,no,no,0,0,1,1,0
+Ukrainian National Chornobyl Museum,Tharros,none,no,no,0,0,1,1,1
+Ukrainian National Chornobyl Museum,Tharros,all,no,no,0,0,1,1,1
+Ukrainian National Chornobyl Museum,Tharros,filtered,no,no,0,0,1,1,1
+Petronas Towers,L'archipel,none,no,no,0,0,1,1,1
+Petronas Towers,L'archipel,all,no,no,0,0,1,1,1
+Petronas Towers,L'archipel,filtered,no,no,0,0,1,1,1
+BC Place,Buchenwald concentration camp,none,no,no,0,0,1,1,1
+BC Place,Buchenwald concentration camp,all,no,no,0,0,1,1,1
+BC Place,Buchenwald concentration camp,filtered,no,no,0,0,1,1,1
+Parken Stadium,Rostec Arena,none,no,no,0,0,1,1,1
+Parken Stadium,Rostec Arena,all,no,no,0,0,1,1,1
+Parken Stadium,Rostec Arena,filtered,no,no,0,0,1,1,1
+Geghard,St. Francis Church,none,no,no,0,0,1,1,0
+Geghard,St. Francis Church,all,no,no,0,0,1,1,0
+Geghard,St. Francis Church,filtered,no,no,0,0,1,1,0
+Laura Biathlon & Ski Complex,Vicarage Road,none,no,no,0,0,1,0,0
+Laura Biathlon & Ski Complex,Vicarage Road,all,no,no,0,0,1,0,0
+Laura Biathlon & Ski Complex,Vicarage Road,filtered,no,no,0,0,1,0,0
+The Museum of Innocence,Tour Défense 2000,none,no,no,0,0,1,1,1
+The Museum of Innocence,Tour Défense 2000,all,no,no,0,0,1,1,1
+The Museum of Innocence,Tour Défense 2000,filtered,no,unknown,0,1,0,1,1
+Kigali Genocide Memorial,Royal Opera House,none,no,no,0,0,1,1,0
+Kigali Genocide Memorial,Royal Opera House,all,no,no,0,0,1,1,0
+Kigali Genocide Memorial,Royal Opera House,filtered,no,no,0,0,1,1,0
+Hermitage Museum,Urquhart Castle,none,no,no,0,0,1,1,0
+Hermitage Museum,Urquhart Castle,all,no,no,0,0,1,1,0
+Hermitage Museum,Urquhart Castle,filtered,no,no,0,0,1,1,0
+Pergamon Museum,Kufstein Fortress,none,no,no,0,0,1,0,1
+Pergamon Museum,Kufstein Fortress,all,no,no,0,0,1,0,1
+Pergamon Museum,Kufstein Fortress,filtered,no,unknown,0,1,0,0,1
+Palace of Versailles,Planet Group arena,none,no,no,0,0,1,1,0
+Palace of Versailles,Planet Group arena,all,no,no,0,0,1,1,0
+Palace of Versailles,Planet Group arena,filtered,no,no,0,0,1,1,0
+Old Castle,One World Trade Center,none,no,no,0,0,1,0,1
+Old Castle,One World Trade Center,all,no,no,0,0,1,0,1
+Old Castle,One World Trade Center,filtered,no,no,0,0,1,0,1
+St. Francis Church,Volksparkstadion,none,no,no,0,0,1,0,1
+St. Francis Church,Volksparkstadion,all,no,no,0,0,1,0,1
+St. Francis Church,Volksparkstadion,filtered,no,no,0,0,1,0,1
+Lighthouse of Alexandria,Radio City Music Hall,none,no,no,0,0,1,1,1
+Lighthouse of Alexandria,Radio City Music Hall,all,no,no,0,0,1,1,1
+Lighthouse of Alexandria,Radio City Music Hall,filtered,no,no,0,0,1,1,1
+Little Hagia Sophia,Lighthouse of Alexandria,none,no,no,0,0,1,1,1
+Little Hagia Sophia,Lighthouse of Alexandria,all,no,no,0,0,1,1,1
+Little Hagia Sophia,Lighthouse of Alexandria,filtered,no,no,0,0,1,1,1
+Kufstein Fortress,Charlottenlund Palace,none,no,no,0,0,1,1,1
+Kufstein Fortress,Charlottenlund Palace,all,no,no,0,0,1,1,1
+Kufstein Fortress,Charlottenlund Palace,filtered,no,unknown,0,1,0,1,1
+Franso Hariri Stadium,Rostec Arena,none,no,no,0,0,1,0,1
+Franso Hariri Stadium,Rostec Arena,all,no,no,0,0,1,0,1
+Franso Hariri Stadium,Rostec Arena,filtered,no,no,0,0,1,0,1
+Château de Saumur,Temple of Vespasian and Titus,none,no,no,0,0,1,1,1
+Château de Saumur,Temple of Vespasian and Titus,all,no,no,0,0,1,1,1
+Château de Saumur,Temple of Vespasian and Titus,filtered,no,no,0,0,1,1,1
+Milan Cathedral,Burj Khalifa,none,no,no,0,0,1,1,1
+Milan Cathedral,Burj Khalifa,all,no,no,0,0,1,1,1
+Milan Cathedral,Burj Khalifa,filtered,no,no,0,0,1,1,1
+Bernabéu,Saint Isaac's Cathedral,none,no,no,0,0,1,1,1
+Bernabéu,Saint Isaac's Cathedral,all,no,no,0,0,1,1,1
+Bernabéu,Saint Isaac's Cathedral,filtered,no,no,0,0,1,1,1
+Topkapı Palace,Bastille,none,no,no,0,0,1,1,1
+Topkapı Palace,Bastille,all,no,no,0,0,1,1,1
+Topkapı Palace,Bastille,filtered,no,no,0,0,1,1,1
+The Shard,Santa Maria in Campitelli,none,no,no,0,0,1,0,1
+The Shard,Santa Maria in Campitelli,all,no,no,0,0,1,0,1
+The Shard,Santa Maria in Campitelli,filtered,no,no,0,0,1,0,1
+Guédelon Castle,Hawa Mahal,none,no,no,0,0,1,1,1
+Guédelon Castle,Hawa Mahal,all,no,no,0,0,1,1,1
+Guédelon Castle,Hawa Mahal,filtered,no,no,0,0,1,1,1
