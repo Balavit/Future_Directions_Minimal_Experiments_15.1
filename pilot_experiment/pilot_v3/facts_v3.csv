@@ -1,0 +1,706 @@
+item,subject,cid,country,sl,group,split,gold_aliases
+Q6373,British Museum,Q145,United Kingdom,110,head,dev,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q9188,Empire State Building,Q30,United States,125,head,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q12506,Hagia Sophia,Q43,Turkey,152,head,test,Republic of Turkey|Republic of Türkiye|Turkey
+Q10285,Colosseum,Q38,Italy,148,head,test,Italian Republic|Italy|Republic of Italy
+Q1143049,Château de Montsoreau,Q142,France,100,head,dev,France|French Republic
+Q80290,Forbidden City,Q148,People's Republic of China,105,head,test,China PR|Communist China|P.R.C.|PR China|People's Republic of China|Red China|The PRC|cn|the People's Republic of China
+Q12495,Burj Khalifa,Q878,United Arab Emirates,140,head,dev,Emirates|U.A.E.|United Arab Emirates|ae|the Emirates|the U.A.E.|the UAE|the United Arab Emirates
+Q7341,Auschwitz,Q36,Poland,128,head,test,Poland|Republic of Poland
+Q2946,Palace of Versailles,Q142,France,109,head,test,France|French Republic
+Q252575,York Minster,Q145,United Kingdom,42,mid,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q4152,Neuschwanstein Castle,Q183,Germany,93,mid,test,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q163521,FNB Stadium,Q258,South Africa,61,mid,dev,R.S.A.|RSA|Republic of South Africa|SA|South Africa|zaf
+Q332219,Helsinki Olympic Stadium,Q33,Finland,43,mid,test,Finland|Finnia|Land of Thousand Lakes|Republic of Finland|Republiken Finland|Suomen tasavalta|fi
+Q43244,Lighthouse of Alexandria,Q79,Egypt,96,mid,test,Arab Rep. Egypt|Arab Republic of Egypt|Egypt|Misr|Rep. Egypt|Republic of Egypt
+Q181445,Nelson Mandela Bay Stadium,Q258,South Africa,49,mid,dev,R.S.A.|RSA|Republic of South Africa|SA|South Africa|zaf
+Q234364,Tuileries Palace,Q142,France,59,mid,test,France|French Republic
+Q456817,Amber Fort,Q668,India,44,mid,test,Al Hind|Bharat Ganarajya|Bharata|Bharatvarsh|Hindoostan|Hindustan|India|Indostan|Republic of India|Tenjiku|Tianzhu
+Q271928,Palazzo Vecchio,Q38,Italy,48,mid,dev,Italian Republic|Italy|Republic of Italy
+Q125846,Q1 Tower,Q408,Australia,42,mid,dev,'Straya|Aussieland|Australia|Commonwealth of Australia|Down Under|New Holland|New Hollandia|Nova Hollandia|Oz|Stralia|Straya|Stria|The Commonwealth of Australia
+Q864339,Hard Rock Stadium,Q30,United States,46,mid,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q338889,Palace of the Shirvanshahs,Q227,Azerbaijan,49,mid,dev,AZE|Azerbaijan|Republic of Azerbaijan
+Q1294648,Etchmiadzin Cathedral,Q399,Armenia,49,mid,dev,Armenia|Hayastan|Hayastani Hanrapetut’yun|Republic of Armenia|Հայաստան
+Q612227,BC Place,Q16,Canada,53,mid,test,CA|CAN|Canada
+Q319841,Luxor Temple,Q79,Egypt,58,mid,test,Arab Rep. Egypt|Arab Republic of Egypt|Egypt|Misr|Rep. Egypt|Republic of Egypt
+Q128468,Wembley Stadium,Q145,United Kingdom,78,mid,dev,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q606803,Arena da Baixada,Q155,Brazil,45,mid,dev,Brazil|Federative Republic of Brazil
+Q435829,Petäjävesi Old Church,Q33,Finland,42,mid,test,Finland|Finnia|Land of Thousand Lakes|Republic of Finland|Republiken Finland|Suomen tasavalta|fi
+Q180376,Hollywood Sign,Q30,United States,43,mid,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q188528,Stari Most,Q225,Bosnia and Herzegovina,61,mid,dev,B&H|Bosnia & Herzegovina|Bosnia and Hercegovina|Bosnia and Herzegovina|Bosnia-Herzegovina|ba
+Q1050220,Al Bayt Stadium,Q846,Qatar,48,mid,test,Qatar|State of Qatar|qa|qat
+Q743881,Khan's Palace,Q212,Ukraine,41,mid,test,Ukr.|Ukraina|Ukraine|Ukrainia|Ukraïna
+Q4439098,Rostec Arena,Q159,Russia,54,mid,test,Russia|Russian Federation
+Q157550,Abbey and Altenmünster of Lorsch,Q183,Germany,44,mid,test,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q1048381,Shanhai Pass,Q148,People's Republic of China,43,mid,test,China PR|Communist China|P.R.C.|PR China|People's Republic of China|Red China|The PRC|cn|the People's Republic of China
+Q23354,Sforza Castle,Q38,Italy,44,mid,dev,Italian Republic|Italy|Republic of Italy
+Q155107,Zwinger,Q183,Germany,42,mid,test,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q245246,CITIC Plaza,Q148,People's Republic of China,42,mid,test,China PR|Communist China|P.R.C.|PR China|People's Republic of China|Red China|The PRC|cn|the People's Republic of China
+Q683112,Turf Moor,Q145,United Kingdom,44,mid,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q623612,Ara Pacis,Q38,Italy,41,mid,test,Italian Republic|Italy|Republic of Italy
+Q622671,King Baudouin Stadium,Q31,Belgium,42,mid,test,Belgium|Kingdom of Belgium
+Q660082,Melk Abbey,Q40,Austria,42,mid,test,Austria|Republic of Austria
+Q193651,Hampden Park,Q145,United Kingdom,57,mid,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q522862,Karnak Temple Complex,Q79,Egypt,66,mid,test,Arab Rep. Egypt|Arab Republic of Egypt|Egypt|Misr|Rep. Egypt|Republic of Egypt
+Q580480,Liberty Stadium,Q145,United Kingdom,43,mid,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q274141,Dolmabahçe Palace,Q43,Turkey,53,mid,test,Republic of Turkey|Republic of Türkiye|Turkey
+Q192988,Royal Observatory,Q145,United Kingdom,61,mid,dev,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q754502,Yves du Manoir Stadium,Q142,France,42,mid,test,France|French Republic
+Q502098,Baths of Caracalla,Q38,Italy,43,mid,test,Italian Republic|Italy|Republic of Italy
+Q51252,Uffizi Gallery,Q38,Italy,73,mid,test,Italian Republic|Italy|Republic of Italy
+Q1030463,Mode Gakuen Cocoon Tower,Q17,Japan,83,mid,dev,Iapan|Iapon|Japan|Land of Rising Sun|Land of the Rising Sun|Nihon-koku|Nippon-koku|State of Japan
+Q152802,Buchenwald concentration camp,Q183,Germany,59,mid,test,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q170610,Edifício Itália,Q155,Brazil,48,mid,test,Brazil|Federative Republic of Brazil
+Q123017,Carrow Road,Q145,United Kingdom,42,mid,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q732489,Mariinskyi Palace,Q212,Ukraine,51,mid,test,Ukr.|Ukraina|Ukraine|Ukrainia|Ukraïna
+Q613037,Temple of Edfu,Q79,Egypt,46,mid,test,Arab Rep. Egypt|Arab Republic of Egypt|Egypt|Misr|Rep. Egypt|Republic of Egypt
+Q223207,Oriental Pearl Tower,Q148,People's Republic of China,52,mid,test,China PR|Communist China|P.R.C.|PR China|People's Republic of China|Red China|The PRC|cn|the People's Republic of China
+Q155174,Maracanã Stadium,Q155,Brazil,89,mid,test,Brazil|Federative Republic of Brazil
+Q482485,Gyeongbokgung,Q884,South Korea,45,mid,dev,Choson|Daehan Minguk|Daehanminguk|Hanguk|Korea (South)|Korea Republic|Rep. Korea|Republic of Korea|S. Korea|Silla|South Korea
+Q205136,Cathedral of Santiago de Compostela,Q29,Spain,65,mid,dev,Kingdom of Spain|Spain
+Q750444,Stockholm Palace,Q34,Sweden,44,mid,test,Kingdom of Sweden|Sweden|Swedish Kingdom|se
+Q593311,Bratislava Castle,Q214,Slovakia,47,mid,dev,SK|SVK|Slovak Republic|Slovakia
+Q10862290,MetLife Stadium,Q30,United States,52,mid,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q202902,The Crystal Palace,Q145,United Kingdom,52,mid,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q46313,Buda Castle,Q28,Hungary,48,mid,dev,Hungary
+Q958185,Castelão,Q155,Brazil,51,mid,dev,Brazil|Federative Republic of Brazil
+Q19520501,SoFi Stadium,Q30,United States,52,mid,dev,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q29247,Getty Center,Q30,United States,42,mid,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q127429,Allianz Arena,Q183,Germany,80,mid,test,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q1058864,Reliant Stadium,Q30,United States,45,mid,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q18640924,Landmark 81,Q881,Vietnam,42,mid,test,SRV|Socialist Republic of Viet Nam|Socialist Republic of Vietnam|VIE|VN|VNM|Viet Nam|Vietnam|Việt Nam
+Q390275,Bran Castle,Q218,Romania,50,mid,test,Romania|Roumania|Rumania
+Q143463,Palais des Papes,Q142,France,46,mid,test,France|French Republic
+Q189476,Abraj Al Bait,Q851,Saudi Arabia,59,mid,test,Kingdom of Saudi Arabia|Saudi|Saudi Arabia
+Q207385,Kensington Palace,Q145,United Kingdom,54,mid,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q276354,"Monumental Stadium, Buenos Aires",Q414,Argentina,44,mid,test,Argentina|Argentine Republic|Republic of Argentina|Republica Argentina
+Q185741,Ernst-Happel-Stadion,Q40,Austria,52,mid,test,Austria|Republic of Austria
+Q486382,Castel Sant'Angelo,Q38,Italy,58,mid,test,Italian Republic|Italy|Republic of Italy
+Q756098,Royal Castle in Warsaw,Q36,Poland,43,mid,test,Poland|Republic of Poland
+Q4439101,Rostov Arena,Q159,Russia,56,mid,test,Russia|Russian Federation
+Q271454,Estádio do Dragão,Q45,Portugal,44,mid,test,POR|Portugal|Portuguese Republic
+Q171517,Royal Palace of Madrid,Q29,Spain,45,mid,test,Kingdom of Spain|Spain
+Q4706020,Alamut Castle,Q794,Iran,50,mid,test,IRI|Iran|Islamic Rep. Iran|Islamic Republic of Iran|ir
+Q499285,Geghard,Q399,Armenia,52,mid,test,Armenia|Hayastan|Hayastani Hanrapetut’yun|Republic of Armenia|Հայաստան
+Q796351,BMO Field,Q16,Canada,46,mid,dev,CA|CAN|Canada
+Q573656,Schwerin Castle,Q183,Germany,43,mid,test,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q125445,Temple of Heaven,Q148,People's Republic of China,69,mid,test,China PR|Communist China|P.R.C.|PR China|People's Republic of China|Red China|The PRC|cn|the People's Republic of China
+Q153951,Kaiser-Wilhelm-Gedächtniskirche,Q183,Germany,43,mid,test,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q524249,National Museum of Anthropology,Q96,Mexico,41,mid,dev,MXN|Mexican Republic|Mexican United States|Mexico|US of M|United Mexican States|United States of Mexico|mx
+Q276553,Boyana Church,Q219,Bulgaria,49,mid,test,Bulgaria|Bulgarian Republic|Republic of Bulgaria
+Q156457,Hohenzollern Castle,Q183,Germany,47,mid,test,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q192680,New York Times Building,Q30,United States,45,mid,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q131626,Smithsonian Institution,Q30,United States,70,mid,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q4366184,Volgograd Arena,Q159,Russia,53,mid,test,Russia|Russian Federation
+Q207109,Johan Cruyff Arena,Q55,Netherlands,54,mid,test,Holland|NL|NLD|Nederland|Nederlanden|Netherlands|de Nederlanden|the Netherlands
+Q191687,Heliopolis,Q79,Egypt,63,mid,test,Arab Rep. Egypt|Arab Republic of Egypt|Egypt|Misr|Rep. Egypt|Republic of Egypt
+Q245151,Tower of Hercules,Q29,Spain,53,mid,test,Kingdom of Spain|Spain
+Q940843,Lotus Temple,Q668,India,56,mid,test,Al Hind|Bharat Ganarajya|Bharata|Bharatvarsh|Hindoostan|Hindustan|India|Indostan|Republic of India|Tenjiku|Tianzhu
+Q206435,Turning Torso,Q34,Sweden,44,mid,test,Kingdom of Sweden|Sweden|Swedish Kingdom|se
+Q333906,Capitoline Museums,Q38,Italy,46,mid,test,Italian Republic|Italy|Republic of Italy
+Q29294,Willis Tower,Q30,United States,97,mid,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q936633,Palais Bourbon,Q142,France,42,mid,dev,France|French Republic
+Q173559,Cape Town Stadium,Q258,South Africa,54,mid,test,R.S.A.|RSA|Republic of South Africa|SA|South Africa|zaf
+Q214855,Bank of China Tower,Q148,People's Republic of China,45,mid,test,China PR|Communist China|P.R.C.|PR China|People's Republic of China|Red China|The PRC|cn|the People's Republic of China
+Q220437,Camelot,Q145,United Kingdom,49,mid,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q1362211,Arena Cidade da Copa,Q155,Brazil,44,mid,dev,Brazil|Federative Republic of Brazil
+Q178065,Centre Georges Pompidou,Q142,France,63,mid,test,France|French Republic
+Q132783,Hermitage Museum,Q159,Russia,86,mid,test,Russia|Russian Federation
+Q180479,Donbass Arena,Q212,Ukraine,47,mid,test,Ukr.|Ukraina|Ukraine|Ukrainia|Ukraïna
+Q654024,Bayon,Q424,Cambodia,44,mid,test,Cambodia|Camboya|Campuchia|Kambodzha|Kamboja|Kampuchea|Kingdom of Cambodia|kh
+Q194479,Stadion Wankdorf,Q39,Switzerland,46,mid,test,Confoederatio Helvetica|Swiss|Swiss Confederation|Switzerland
+Q1134439,Stadium 974,Q846,Qatar,49,mid,test,Qatar|State of Qatar|qa|qat
+Q44562,Ulm Minster,Q183,Germany,51,mid,test,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q477157,Changdeokgung,Q884,South Korea,50,mid,test,Choson|Daehan Minguk|Daehanminguk|Hanguk|Korea (South)|Korea Republic|Rep. Korea|Republic of Korea|S. Korea|Silla|South Korea
+Q4533552,Mordovia Arena,Q159,Russia,55,mid,test,Russia|Russian Federation
+Q391620,Palace of Whitehall,Q179876,Kingdom of England,45,mid,test,England|Kingdom of England
+Q170495,Topkapı Palace,Q43,Turkey,79,mid,test,Republic of Turkey|Republic of Türkiye|Turkey
+Q201428,Palace of Fontainebleau,Q142,France,56,mid,test,France|French Republic
+Q23894294,Museum of Philistine Culture,Q801,Israel,58,mid,test,ISR|Israel|State of Israel|Yisrael|il
+Q49133,Museum of Fine Arts Boston,Q30,United States,45,mid,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q478000,Rajko Mitić Stadium,Q403,Serbia,46,mid,test,RS|Republic of Serbia|Serbia
+Q849489,Chora Church,Q43,Turkey,44,mid,test,Republic of Turkey|Republic of Türkiye|Turkey
+Q29272,Ryugyong Hotel,Q423,North Korea,57,mid,dev,DPR Korea|DPRK|Democratic People's Republic of Korea|N. Korea|North Korea|kp
+Q18068,Milan Cathedral,Q38,Italy,78,mid,test,Italian Republic|Italy|Republic of Italy
+Q216357,Grande Arche,Q142,France,51,mid,dev,France|French Republic
+Q336088,Estádio Nacional de Brasília,Q155,Brazil,53,mid,dev,Brazil|Federative Republic of Brazil
+Q723603,Stadion Maksimir,Q224,Croatia,46,mid,test,CRO|Croatia|HR|HRV|RH|Republic of Croatia
+Q187042,Peter Mokaba Stadium,Q258,South Africa,50,mid,test,R.S.A.|RSA|Republic of South Africa|SA|South Africa|zaf
+Q216862,Ġgantija,Q233,Malta,49,mid,dev,Malta|Republic of Malta
+Q215315,Kernavė,Q37,Lithuania,49,mid,test,Lithuania|Republic of Lithuania
+Q285531,Al Janoub Stadium,Q846,Qatar,41,mid,test,Qatar|State of Qatar|qa|qat
+Q272434,Globe Theatre,Q145,United Kingdom,46,mid,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q2854543,Catherine Palace,Q159,Russia,56,mid,test,Russia|Russian Federation
+Q156591,Yad Vashem,Q801,Israel,63,mid,dev,ISR|Israel|State of Israel|Yisrael|il
+Q46242,Hofburg Palace,Q40,Austria,55,mid,test,Austria|Republic of Austria
+Q215003,Belém Tower,Q45,Portugal,57,mid,test,POR|Portugal|Portuguese Republic
+Q191161,30 St Mary Axe,Q145,United Kingdom,49,mid,dev,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q868772,Trump Tower,Q30,United States,47,mid,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q188740,Museum of Modern Art,Q30,United States,67,mid,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q178813,Herculaneum,Q38,Italy,72,mid,test,Italian Republic|Italy|Republic of Italy
+Q39049425,Al Thumama Stadium,Q846,Qatar,45,mid,test,Qatar|State of Qatar|qa|qat
+Q498261,Reales Alcázares,Q29,Spain,46,mid,test,Kingdom of Spain|Spain
+Q131631,Nymphenburg Palace,Q183,Germany,52,mid,test,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q164150,Palace of the Parliament,Q218,Romania,45,mid,test,Romania|Roumania|Rumania
+Q116601,International Stadium Yokohama,Q17,Japan,43,mid,test,Iapan|Iapon|Japan|Land of Rising Sun|Land of the Rising Sun|Nihon-koku|Nippon-koku|State of Japan
+Q184427,Ajanta Caves,Q668,India,83,mid,test,Al Hind|Bharat Ganarajya|Bharata|Bharatvarsh|Hindoostan|Hindustan|India|Indostan|Republic of India|Tenjiku|Tianzhu
+Q18536,The Shard,Q145,United Kingdom,60,mid,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q1138684,Strawberry Arena,Q34,Sweden,41,mid,test,Kingdom of Sweden|Sweden|Swedish Kingdom|se
+Q156316,Würzburg Residence,Q183,Germany,46,mid,dev,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q738015,Helsinki Cathedral,Q33,Finland,51,mid,test,Finland|Finnia|Land of Thousand Lakes|Republic of Finland|Republiken Finland|Suomen tasavalta|fi
+Q43282,Alexander Nevsky Cathedral,Q219,Bulgaria,52,mid,test,Bulgaria|Bulgarian Republic|Republic of Bulgaria
+Q210610,Golestan Palace,Q794,Iran,59,mid,test,IRI|Iran|Islamic Rep. Iran|Islamic Republic of Iran|ir
+Q641556,Verona Arena,Q38,Italy,43,mid,dev,Italian Republic|Italy|Republic of Italy
+Q11274,Chrysler Building,Q30,United States,75,mid,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q850268,Tuol Sleng torture center,Q424,Cambodia,43,mid,test,Cambodia|Camboya|Campuchia|Kambodzha|Kamboja|Kampuchea|Kingdom of Cambodia|kh
+Q151330,Sanssouci Palace,Q183,Germany,53,mid,test,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q810700,Bataclan,Q142,France,43,mid,test,France|French Republic
+Q854122,Stade Bollaert-Delelis,Q142,France,45,mid,test,France|French Republic
+Q772988,Khalifa International Stadium,Q846,Qatar,53,mid,test,Qatar|State of Qatar|qa|qat
+Q157316,Neues Museum,Q183,Germany,47,mid,test,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q33003,Parken Stadium,Q35,Denmark,53,mid,test,Danemark|Dania|Danmark|Denmark|Denmark proper|TAN|dk|metropolitan Denmark
+Q266698,Karlštejn Castle,Q213,Czech Republic,50,mid,test,Czech Republic|Czechia|the Czech Republic
+Q7007552,Mercedes-Benz Stadium,Q30,United States,45,mid,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q208709,Ibrox Stadium,Q145,United Kingdom,41,mid,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q859010,Toompea Castle,Q191,Estonia,43,mid,test,Eesti Vabariik|Estland|Estonia|Republic of Estonia|ee
+Q23868,Brest Fortress,Q184,Belarus,45,mid,test,Belarus|Belorussia|Bielaruś|Bielorussia|Byeloruss|Byelorussia|Republic of Belarus|Respublika Belarus'|Respublika Bielaruś|White Russia|White Ruthenia|by
+Q503387,Rock-hewn Churches of Ivanovo,Q219,Bulgaria,44,mid,test,Bulgaria|Bulgarian Republic|Republic of Bulgaria
+Q3585,Metalist Stadium,Q212,Ukraine,43,mid,test,Ukr.|Ukraina|Ukraine|Ukrainia|Ukraïna
+Q745016,Kuala Lumpur Tower,Q833,Malaysia,43,mid,test,Federation of Malaysia|Malaysia|Malaysia Federation
+Q329852,Luxembourg Palace,Q142,France,53,mid,test,France|French Republic
+Q756268,Stirling Castle,Q145,United Kingdom,43,mid,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q152633,Niedersachsenstadion,Q183,Germany,44,mid,test,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q1343986,Arena das Dunas,Q155,Brazil,44,mid,dev,Brazil|Federative Republic of Brazil
+Q188856,Panthéon,Q142,France,61,mid,test,France|French Republic
+Q193639,Royal Albert Hall,Q145,United Kingdom,52,mid,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q867902,Cardiff City Stadium,Q145,United Kingdom,45,mid,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q167566,Palace of Culture and Science,Q36,Poland,51,mid,test,Poland|Republic of Poland
+Q59483,Mercury City Tower,Q159,Russia,41,mid,dev,Russia|Russian Federation
+Q1865480,Bastille,Q142,France,86,mid,test,France|French Republic
+Q150961,Arena AufSchalke,Q183,Germany,58,mid,dev,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q157886,Maulbronn Monastery,Q183,Germany,45,mid,test,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q6499360,Arena Fonte Nova,Q155,Brazil,46,mid,test,Brazil|Federative Republic of Brazil
+Q160236,Metropolitan Museum of Art,Q30,United States,88,mid,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q157298,Pergamon Museum,Q183,Germany,61,mid,test,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q1050224,Estádio Beira-Rio,Q155,Brazil,48,mid,dev,Brazil|Federative Republic of Brazil
+Q752266,Durham Castle,Q145,United Kingdom,46,mid,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q133525,Beijing National Stadium,Q148,People's Republic of China,64,mid,test,China PR|Communist China|P.R.C.|PR China|People's Republic of China|Red China|The PRC|cn|the People's Republic of China
+Q193369,Prague Castle,Q213,Czech Republic,66,mid,test,Czech Republic|Czechia|the Czech Republic
+Q328505,Bank of America Tower,Q30,United States,42,mid,dev,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q11245,One World Trade Center,Q30,United States,74,mid,dev,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q202150,Stade Vélodrome,Q142,France,56,mid,dev,France|French Republic
+Q273593,Beaux-Arts de Paris,Q142,France,42,mid,test,France|French Republic
+Q151545,Wartburg,Q183,Germany,58,mid,dev,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q330564,La Madeleine,Q142,France,47,mid,test,France|French Republic
+Q3906600,Temple in Jerusalem,Q219060,Palestine,78,mid,dev,PSE|Palestine|State of Palestine
+Q684072,Garni Temple,Q399,Armenia,42,mid,dev,Armenia|Hayastan|Hayastani Hanrapetut’yun|Republic of Armenia|Հայաստան
+Q544553,Arrowhead Stadium,Q30,United States,46,mid,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q42258,Mirante do Vale,Q155,Brazil,71,mid,test,Brazil|Federative Republic of Brazil
+Q271568,Stadio Luigi Ferraris,Q38,Italy,44,mid,test,Italian Republic|Italy|Republic of Italy
+Q1048774,Education City Stadium,Q846,Qatar,48,mid,test,Qatar|State of Qatar|qa|qat
+Q277531,Citadel of Salah Ed-Din,Q858,Syria,45,mid,test,Syria|Syrian Arab Republic|Sūriyā
+Q236201,Shun Hing Square,Q148,People's Republic of China,41,mid,test,China PR|Communist China|P.R.C.|PR China|People's Republic of China|Red China|The PRC|cn|the People's Republic of China
+Q138908,Bolshoi Theatre,Q159,Russia,76,mid,test,Russia|Russian Federation
+Q16318627,Abeno Harukas,Q17,Japan,67,mid,test,Iapan|Iapon|Japan|Land of Rising Sun|Land of the Rising Sun|Nihon-koku|Nippon-koku|State of Japan
+Q215423,Saint Isaac's Cathedral,Q159,Russia,56,mid,dev,Russia|Russian Federation
+Q836531,Hawa Mahal,Q668,India,59,mid,test,Al Hind|Bharat Ganarajya|Bharata|Bharatvarsh|Hindoostan|Hindustan|India|Indostan|Republic of India|Tenjiku|Tianzhu
+Q18547,Shanghai Tower,Q148,People's Republic of China,58,mid,test,China PR|Communist China|P.R.C.|PR China|People's Republic of China|Red China|The PRC|cn|the People's Republic of China
+Q151765,Commerzbank Tower,Q183,Germany,43,mid,test,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q83101,Taipei 101,Q865,Taiwan,85,mid,test,"China, Republic of|Chinese Republic|Chinese Taipei|Chunghwa Minkuo|Chunghwa Minkwo|Free China|Nationalist China|ROC|Republic of China|Republic of China (Taiwan)|TW|TWN|Taiwan|Taiwan ROC|The ROC"
+Q632682,Brooklyn Museum,Q30,United States,48,mid,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q204496,Millennium Stadium,Q145,United Kingdom,52,mid,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q180615,Dolby Theatre,Q30,United States,53,mid,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q11993457,Royal Spanish Academy,Q29,Spain,45,mid,test,Kingdom of Spain|Spain
+Q542070,San Pietro in Vincoli,Q38,Italy,42,mid,test,Italian Republic|Italy|Republic of Italy
+Q674773,Science Museum,Q145,United Kingdom,47,mid,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q202762,Mestalla Stadium,Q29,Spain,49,mid,test,Kingdom of Spain|Spain
+Q749556,Yasnaya Polyana,Q159,Russia,46,mid,test,Russia|Russian Federation
+Q154996,Charlottenburg Palace,Q183,Germany,49,mid,test,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q301815,Thracian Tomb of Kazanlak,Q219,Bulgaria,43,mid,test,Bulgaria|Bulgarian Republic|Republic of Bulgaria
+Q80813,Jin Mao Tower,Q148,People's Republic of China,52,mid,dev,China PR|Communist China|P.R.C.|PR China|People's Republic of China|Red China|The PRC|cn|the People's Republic of China
+Q1055311,Livadia Palace,Q212,Ukraine,45,mid,test,Ukr.|Ukraina|Ukraine|Ukrainia|Ukraïna
+Q224124,Van Gogh Museum,Q55,Netherlands,60,mid,test,Holland|NL|NLD|Nederland|Nederlanden|Netherlands|de Nederlanden|the Netherlands
+Q663673,Château de Vincennes,Q142,France,41,mid,test,France|French Republic
+Q737945,Q737945,Q851,Saudi Arabia,54,mid,test,Kingdom of Saudi Arabia|Saudi|Saudi Arabia
+Q115253,Takht-e Soleyman,Q794,Iran,50,mid,test,IRI|Iran|Islamic Rep. Iran|Islamic Republic of Iran|ir
+Q7875112,Estádio da Luz,Q45,Portugal,49,mid,test,POR|Portugal|Portuguese Republic
+Q145093,Apostolic Palace,Q237,Vatican City,60,mid,test,Città del Vaticano|Holy See|Papal State|State of Vatican City|Stato della Città del Vaticano|Status Civitatis Vaticanae|The Vatican|Vatican|Vatican City|Vatican City State
+Q641448,Arena Pantaloneta,Q155,Brazil,45,mid,test,Brazil|Federative Republic of Brazil
+Q71279,Malbork Castle,Q36,Poland,58,mid,test,Poland|Republic of Poland
+Q719422,Nesvizh Castle,Q184,Belarus,47,mid,test,Belarus|Belorussia|Bielaruś|Bielorussia|Byeloruss|Byelorussia|Republic of Belarus|Respublika Belarus'|Respublika Bielaruś|White Russia|White Ruthenia|by
+Q179199,Guggenheim Museum Bilbao,Q29,Spain,68,mid,test,Kingdom of Spain|Spain
+Q42049,Balmoral Castle,Q145,United Kingdom,62,mid,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q28924,Catacombs of Paris,Q142,France,46,mid,test,France|French Republic
+Q244952,Santa Maria delle Grazie,Q38,Italy,55,mid,test,Italian Republic|Italy|Republic of Italy
+Q55018,Royal Opera House,Q145,United Kingdom,56,mid,dev,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q373355,Gillette Stadium,Q30,United States,48,mid,dev,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q141012,Khotyn Fortress,Q212,Ukraine,43,mid,test,Ukr.|Ukraina|Ukraine|Ukrainia|Ukraïna
+Q208559,Drottningholm Palace,Q34,Sweden,59,mid,test,Kingdom of Sweden|Sweden|Swedish Kingdom|se
+Q169420,Edifício Altino Arantes,Q155,Brazil,50,mid,test,Brazil|Federative Republic of Brazil
+Q380384,Pashupatinath Temple,Q837,Nepal,45,mid,test,Bal-bo|Bal-po'i yul|Bal-yul|Balbo|Balpo|Balpo-yul|Federal Democratic Republic of Nepal|Naipala|Naipál|Naipála|Ne-pel|Necbal|Nehpal|Nei-pal|Nekbal|Nekpal|Nepal|Nepall|Nepaul|Nepál|Nercerri|Ni-po-lo|Ni-po-louo|Niepal|Nipal|Népaal|Népál|Pa-eul-pou|Pa-le-pou|Pa-lo-pou|Pai-pou|Palpa|Palpou|Paï-pou
+Q205666,Hampton Court Palace,Q145,United Kingdom,53,mid,dev,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q83063,Petronas Towers,Q833,Malaysia,89,mid,test,Federation of Malaysia|Malaysia|Malaysia Federation
+Q4255374,Lakhta Centre,Q159,Russia,43,mid,test,Russia|Russian Federation
+Q848397,Maiden's Tower,Q43,Turkey,45,mid,test,Republic of Turkey|Republic of Türkiye|Turkey
+Q308720,Burgtheater,Q40,Austria,43,mid,test,Austria|Republic of Austria
+Q1186333,Lusail Stadium,Q846,Qatar,56,mid,dev,Qatar|State of Qatar|qa|qat
+Q182147,Winter Palace,Q159,Russia,76,mid,test,Russia|Russian Federation
+Q4439099,Samara Arena,Q159,Russia,54,mid,test,Russia|Russian Federation
+Q642557,Hillsborough Stadium,Q145,United Kingdom,42,mid,dev,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q189358,Kronborg Castle,Q35,Denmark,55,mid,test,Danemark|Dania|Danmark|Denmark|Denmark proper|TAN|dk|metropolitan Denmark
+Q330136,Melbourne Cricket Ground,Q408,Australia,48,mid,test,'Straya|Aussieland|Australia|Commonwealth of Australia|Down Under|New Holland|New Hollandia|Nova Hollandia|Oz|Stralia|Straya|Stria|The Commonwealth of Australia
+Q95569,Kunsthistorisches Museum,Q40,Austria,52,mid,test,Austria|Republic of Austria
+Q4439075,Nizhny Novgorod Stadium,Q159,Russia,49,mid,test,Russia|Russian Federation
+Q45368,Mausoleum at Halicarnassus,Q43,Turkey,90,mid,test,Republic of Turkey|Republic of Türkiye|Turkey
+Q217652,Woolworth Building,Q30,United States,45,mid,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q183334,Tretyakov Gallery,Q159,Russia,60,mid,test,Russia|Russian Federation
+Q207623,Letzigrund,Q39,Switzerland,44,mid,test,Confoederatio Helvetica|Swiss|Swiss Confederation|Switzerland
+Q131610,Munich Olympic Stadium,Q183,Germany,56,mid,test,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q322183,Riga Castle,Q211,Latvia,41,mid,test,Latveja|Latvejas Republika|Latvia|Latvian Republic|Latvija|Latvijas Republika|Leţmо̄|Leţmо̄ Vabāmо̄|Republic of Latvia|lv
+Q727078,Stockholm Olympic Stadium,Q34,Sweden,41,mid,test,Kingdom of Sweden|Sweden|Swedish Kingdom|se
+Q152349,MHPArena,Q183,Germany,54,mid,test,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q656743,Kingdom Centre,Q851,Saudi Arabia,42,mid,test,Kingdom of Saudi Arabia|Saudi|Saudi Arabia
+Q505950,Holyrood Palace,Q145,United Kingdom,44,mid,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q323767,Montparnasse Tower,Q142,France,48,mid,test,France|French Republic
+Q150933,Volksparkstadion,Q183,Germany,54,mid,test,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q641527,Arena Amazônia,Q155,Brazil,48,mid,test,Brazil|Federative Republic of Brazil
+Q612736,Lumen Field,Q30,United States,46,mid,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q270066,7 World Trade Center,Q30,United States,46,mid,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q179693,Kazimierz Górski National Stadium,Q36,Poland,53,mid,dev,Poland|Republic of Poland
+Q191739,Florence Cathedral,Q38,Italy,71,mid,test,Italian Republic|Italy|Republic of Italy
+Q47476,Alhambra,Q29,Spain,96,mid,dev,Kingdom of Spain|Spain
+Q189337,Royal Bafokeng Stadium,Q258,South Africa,48,mid,test,R.S.A.|RSA|Republic of South Africa|SA|South Africa|zaf
+Q525811,Generalife,Q29,Spain,47,mid,dev,Kingdom of Spain|Spain
+Q391229,Tournai Cathedral,Q31,Belgium,49,mid,test,Belgium|Kingdom of Belgium
+Q55074091,Tottenham Hotspur Stadium,Q145,United Kingdom,47,mid,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q619409,Brighton Community Stadium,Q145,United Kingdom,42,mid,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q156675,Wieskirche,Q183,Germany,45,mid,dev,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q80852,Shanghai World Financial Center,Q148,People's Republic of China,61,mid,test,China PR|Communist China|P.R.C.|PR China|People's Republic of China|Red China|The PRC|cn|the People's Republic of China
+Q498245,Estadio Centenario,Q77,Uruguay,46,mid,test,Eastern Republic of Uruguay|Oriental Republic of Uruguay|URU|Uruguay|uy
+Q505617,Villa Romana del Casale,Q38,Italy,48,mid,test,Italian Republic|Italy|Republic of Italy
+Q408847,Karlskirche,Q40,Austria,41,mid,test,Austria|Republic of Austria
+Q721817,Basilica of San Vitale,Q38,Italy,51,mid,dev,Italian Republic|Italy|Republic of Italy
+Q187087,Mbombela Stadium,Q258,South Africa,48,mid,test,R.S.A.|RSA|Republic of South Africa|SA|South Africa|zaf
+Q209643,Mir Castle Complex,Q184,Belarus,49,mid,test,Belarus|Belorussia|Bielaruś|Bielorussia|Byeloruss|Byelorussia|Republic of Belarus|Respublika Belarus'|Respublika Bielaruś|White Russia|White Ruthenia|by
+Q5908,Aachen Cathedral,Q183,Germany,64,mid,test,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q317034,International Commerce Centre,Q148,People's Republic of China,46,mid,test,China PR|Communist China|P.R.C.|PR China|People's Republic of China|Red China|The PRC|cn|the People's Republic of China
+Q210678,Urnes Stave Church,Q20,Norway,49,mid,test,Kingdom of Norway|Norway
+Q841506,Galleria Borghese,Q38,Italy,47,mid,test,Italian Republic|Italy|Republic of Italy
+Q215399,Arena Lviv,Q212,Ukraine,44,mid,test,Ukr.|Ukraina|Ukraine|Ukrainia|Ukraïna
+Q62378,Tower of London,Q145,United Kingdom,88,mid,dev,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q401643,Ahmad bin Ali Stadium,Q846,Qatar,48,mid,test,Qatar|State of Qatar|qa|qat
+Q211818,Belvedere,Q40,Austria,61,mid,test,Austria|Republic of Austria
+Q160659,London Eye,Q145,United Kingdom,78,mid,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q188112,National Museum in Prague,Q213,Czech Republic,41,mid,dev,Czech Republic|Czechia|the Czech Republic
+Q382121,Zifeng Tower,Q148,People's Republic of China,41,mid,test,China PR|Communist China|P.R.C.|PR China|People's Republic of China|Red China|The PRC|cn|the People's Republic of China
+Q910370,Mineirão,Q155,Brazil,57,mid,test,Brazil|Federative Republic of Brazil
+Q51177,Basilica of Santa Croce,Q38,Italy,47,mid,test,Italian Republic|Italy|Republic of Italy
+Q42646,Windsor Castle,Q145,United Kingdom,85,mid,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q212065,Edinburgh Castle,Q145,United Kingdom,58,mid,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q28785,Sacré-Cœur,Q142,France,60,mid,dev,France|French Republic
+Q216511,Basilica Cistern,Q43,Turkey,41,mid,test,Republic of Turkey|Republic of Türkiye|Turkey
+Q164027,Bernabéu,Q29,Spain,81,mid,test,Kingdom of Spain|Spain
+Q162052,Linderhof Palace,Q183,Germany,41,mid,test,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q91274,Galata Tower,Q43,Turkey,58,mid,test,Republic of Turkey|Republic of Türkiye|Turkey
+Q271466,Hallgrímskirkja,Q189,Iceland,43,mid,test,Iceland|Icelandic republic|Isl.|Republic of Iceland|Ysland
+Q29238,Pyramid of the Sun,Q96,Mexico,50,mid,test,MXN|Mexican Republic|Mexican United States|Mexico|US of M|United Mexican States|United States of Mexico|mx
+Q1013191,Château de Montségur,Q142,France,22,tail,test,France|French Republic
+Q2969640,Lancaster Castle,Q145,United Kingdom,16,tail,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q497430,Incheon Asiad Main Stadium,Q884,South Korea,16,tail,dev,Choson|Daehan Minguk|Daehanminguk|Hanguk|Korea (South)|Korea Republic|Rep. Korea|Republic of Korea|S. Korea|Silla|South Korea
+Q1504607,Church of Saint Panteleimon,Q41,Greece,16,tail,test,"Ellada|Greece|Greek Republic|Hellas|Hellas, Greece|Hellenic Republic|el|gr"
+Q3499859,Gyumri City Stadium,Q399,Armenia,19,tail,dev,Armenia|Hayastan|Hayastani Hanrapetut’yun|Republic of Armenia|Հայաստան
+Q2942870,Terrassa Cathedral,Q29,Spain,20,tail,dev,Kingdom of Spain|Spain
+Q579043,Church of St. Elisabeth,Q214,Slovakia,25,tail,test,SK|SVK|Slovak Republic|Slovakia
+Q1473691,"Christian Building, Dura-Europos",Q858,Syria,17,tail,test,Syria|Syrian Arab Republic|Sūriyā
+Q3114751,Great Bridge of Hrazdan,Q399,Armenia,18,tail,test,Armenia|Hayastan|Hayastani Hanrapetut’yun|Republic of Armenia|Հայաստան
+Q641907,Hochdorf Chieftain's Grave,Q183,Germany,16,tail,test,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q1804836,Budatín Castle,Q214,Slovakia,19,tail,test,SK|SVK|Slovak Republic|Slovakia
+Q679292,Hohensalzburg Fortress,Q40,Austria,40,tail,test,Austria|Republic of Austria
+Q47487000,Melilla Museum,Q29,Spain,21,tail,test,Kingdom of Spain|Spain
+Q679101,Marienkirche (Berlin-Mitte),Q183,Germany,30,tail,test,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q1324617,Sant'Ivo alla Sapienza,Q38,Italy,26,tail,test,Italian Republic|Italy|Republic of Italy
+Q3245092,Prince Abdullah Al Faisal Sports City,Q851,Saudi Arabia,24,tail,test,Kingdom of Saudi Arabia|Saudi|Saudi Arabia
+Q1509747,Tour First,Q142,France,31,tail,test,France|French Republic
+Q1148681,Yokohama Stadium,Q17,Japan,24,tail,test,Iapan|Iapon|Japan|Land of Rising Sun|Land of the Rising Sun|Nihon-koku|Nippon-koku|State of Japan
+Q2040985,Tour D2,Q142,France,16,tail,test,France|French Republic
+Q748689,Santa Maria degli Scalzi,Q38,Italy,19,tail,test,Italian Republic|Italy|Republic of Italy
+Q1011357,Château de Castelnaud-la-Chapelle,Q142,France,20,tail,test,France|French Republic
+Q1193117,T-Mobile Park,Q30,United States,26,tail,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q1807458,Knutstorp Castle,Q34,Sweden,17,tail,test,Kingdom of Sweden|Sweden|Swedish Kingdom|se
+Q178522,Dunstaffnage Castle,Q145,United Kingdom,19,tail,dev,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q627087,Borås Arena,Q34,Sweden,22,tail,test,Kingdom of Sweden|Sweden|Swedish Kingdom|se
+Q4706745,Basilica of Santa Maria degli Angeli,Q38,Italy,21,tail,test,Italian Republic|Italy|Republic of Italy
+Q139815,Grand International Mansion,Q148,People's Republic of China,19,tail,test,China PR|Communist China|P.R.C.|PR China|People's Republic of China|Red China|The PRC|cn|the People's Republic of China
+Q151816,Estadio Nuevo José Zorrilla,Q29,Spain,34,tail,test,Kingdom of Spain|Spain
+Q1813687,Santa Maria Formosa,Q38,Italy,17,tail,dev,Italian Republic|Italy|Republic of Italy
+Q216167,Wörthersee Stadion,Q40,Austria,39,tail,test,Austria|Republic of Austria
+Q124769,Estadio Cuauhtémoc,Q96,Mexico,22,tail,dev,MXN|Mexican Republic|Mexican United States|Mexico|US of M|United Mexican States|United States of Mexico|mx
+Q201612,Pride Park Stadium,Q145,United Kingdom,35,tail,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q1186043,Hanoi Opera House,Q881,Vietnam,17,tail,test,SRV|Socialist Republic of Viet Nam|Socialist Republic of Vietnam|VIE|VN|VNM|Viet Nam|Vietnam|Việt Nam
+Q1698940,Saint John's Church,Q33,Finland,16,tail,test,Finland|Finnia|Land of Thousand Lakes|Republic of Finland|Republiken Finland|Suomen tasavalta|fi
+Q1809639,San Michele in Foro,Q38,Italy,16,tail,test,Italian Republic|Italy|Republic of Italy
+Q751987,Masmak Fort,Q851,Saudi Arabia,22,tail,test,Kingdom of Saudi Arabia|Saudi|Saudi Arabia
+Q1127212,2 World Trade Center,Q30,United States,31,tail,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q2218604,Aceh Tsunami Museum,Q252,Indonesia,20,tail,test,Indonesia|Republic of Indonesia|id
+Q597051,Palau Güell,Q29,Spain,33,tail,test,Kingdom of Spain|Spain
+Q423525,ʻIolani Palace,Q30,United States,26,tail,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q1949129,Saigon Opera House,Q881,Vietnam,16,tail,test,SRV|Socialist Republic of Viet Nam|Socialist Republic of Vietnam|VIE|VN|VNM|Viet Nam|Vietnam|Việt Nam
+Q790118,Baphuon,Q424,Cambodia,31,tail,test,Cambodia|Camboya|Campuchia|Kambodzha|Kamboja|Kampuchea|Kingdom of Cambodia|kh
+Q673240,Makomanai Open Stadium,Q17,Japan,18,tail,dev,Iapan|Iapon|Japan|Land of Rising Sun|Land of the Rising Sun|Nihon-koku|Nippon-koku|State of Japan
+Q1812844,Ponte City Apartments,Q258,South Africa,20,tail,test,R.S.A.|RSA|Republic of South Africa|SA|South Africa|zaf
+Q402848,Launceston Castle,Q145,United Kingdom,17,tail,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q1133188,Moszna Castle,Q36,Poland,17,tail,test,Poland|Republic of Poland
+Q5868468,"People's Palace, Damascus",Q858,Syria,17,tail,test,Syria|Syrian Arab Republic|Sūriyā
+Q2459870,Temple of Venus Genetrix,Q38,Italy,22,tail,test,Italian Republic|Italy|Republic of Italy
+Q2089016,Dusit Palace,Q869,Thailand,18,tail,dev,Kingdom of Siam|Kingdom of Thailand|Prathet Thai|Ratcha-anachak Thai|Thai|Thailand|The Kingdom of Siam|The Kingdom of Thailand|th
+Q963111,UniCredit Tower,Q38,Italy,22,tail,test,Italian Republic|Italy|Republic of Italy
+Q615735,Berg Castle,Q32,Luxembourg,24,tail,test,Grand Duchy of Luxembourg|Luxembourg
+Q1081921,Church of Domine Quo Vadis,Q38,Italy,17,tail,test,Italian Republic|Italy|Republic of Italy
+Q1091640,Santa Francesca Romana,Q38,Italy,23,tail,test,Italian Republic|Italy|Republic of Italy
+Q588849,Church of the Pater Noster,Q801,Israel,26,tail,test,ISR|Israel|State of Israel|Yisrael|il
+Q679248,Hochosterwitz Castle,Q40,Austria,32,tail,dev,Austria|Republic of Austria
+Q941620,Carlos Dittborn Stadium,Q298,Chile,18,tail,test,CHI|Chile|Republic of Chile
+Q5994097,Troy Museum,Q43,Turkey,19,tail,test,Republic of Turkey|Republic of Türkiye|Turkey
+Q1794858,Royal Botanic Garden of Madrid,Q29,Spain,24,tail,test,Kingdom of Spain|Spain
+Q899201,Stanley Park Stadium,Q145,United Kingdom,19,tail,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q650678,Mantua Cathedral,Q38,Italy,18,tail,dev,Italian Republic|Italy|Republic of Italy
+Q1143171,St. Mary's Basilica in Kraków,Q36,Poland,37,tail,test,Poland|Republic of Poland
+Q2339039,Centre Point,Q145,United Kingdom,17,tail,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q1542668,Groninger Museum,Q55,Netherlands,22,tail,dev,Holland|NL|NLD|Nederland|Nederlanden|Netherlands|de Nederlanden|the Netherlands
+Q6564498,Tachara,Q794,Iran,17,tail,test,IRI|Iran|Islamic Rep. Iran|Islamic Republic of Iran|ir
+Q16566,Chehel Sotun,Q794,Iran,33,tail,dev,IRI|Iran|Islamic Rep. Iran|Islamic Republic of Iran|ir
+Q212834,20 Fenchurch Street,Q145,United Kingdom,23,tail,dev,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q790099,Banteay Srei,Q424,Cambodia,32,tail,test,Cambodia|Camboya|Campuchia|Kambodzha|Kamboja|Kampuchea|Kingdom of Cambodia|kh
+Q1952033,Pennsylvania Academy of the Fine Arts,Q30,United States,21,tail,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q586142,Église de la Sainte-Trinité,Q142,France,21,tail,test,France|French Republic
+Q1033099,Grand Lisboa,Q148,People's Republic of China,31,tail,test,China PR|Communist China|P.R.C.|PR China|People's Republic of China|Red China|The PRC|cn|the People's Republic of China
+Q1076164,Chongqing World Trade Center,Q148,People's Republic of China,17,tail,dev,China PR|Communist China|P.R.C.|PR China|People's Republic of China|Red China|The PRC|cn|the People's Republic of China
+Q15910573,Pancho Arena,Q28,Hungary,16,tail,test,Hungary
+Q464482,MetLife Building,Q30,United States,35,tail,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q670268,Musée de l'Homme,Q142,France,26,tail,test,France|French Republic
+Q1051928,Kröller-Müller Museum,Q55,Netherlands,32,tail,test,Holland|NL|NLD|Nederland|Nederlanden|Netherlands|de Nederlanden|the Netherlands
+Q795345,Centennial Olympic Stadium,Q30,United States,25,tail,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q756815,Beaumaris Castle,Q145,United Kingdom,37,tail,dev,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q1061061,Château de Loches,Q142,France,25,tail,test,France|French Republic
+Q1350295,Montaza Palace,Q79,Egypt,19,tail,test,Arab Rep. Egypt|Arab Republic of Egypt|Egypt|Misr|Rep. Egypt|Republic of Egypt
+Q2093410,Choijin Lama Temple,Q711,Mongolia,17,tail,test,Mongol State|Mongolia|State of Mongolia
+Q845182,Emirates Office Tower,Q878,United Arab Emirates,35,tail,test,Emirates|U.A.E.|United Arab Emirates|ae|the Emirates|the U.A.E.|the UAE|the United Arab Emirates
+Q1151131,Jeddah Light,Q851,Saudi Arabia,20,tail,test,Kingdom of Saudi Arabia|Saudi|Saudi Arabia
+Q12960184,Tempietto,Q38,Italy,23,tail,test,Italian Republic|Italy|Republic of Italy
+Q269654,Cathedral of St. Michael and St. Gudula,Q31,Belgium,36,tail,test,Belgium|Kingdom of Belgium
+Q2165797,Savoy Theatre,Q145,United Kingdom,18,tail,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q1742795,Church of the Holy Twelve Apostles,Q41,Greece,16,tail,test,"Ellada|Greece|Greek Republic|Hellas|Hellas, Greece|Hellenic Republic|el|gr"
+Q2942496,Astorga Cathedral,Q29,Spain,22,tail,dev,Kingdom of Spain|Spain
+Q1142661,Alcatraz Federal Penitentiary,Q30,United States,30,tail,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q830976,Devín Castle,Q214,Slovakia,34,tail,test,SK|SVK|Slovak Republic|Slovakia
+Q1359941,Hỏa Lò Prison,Q881,Vietnam,20,tail,test,SRV|Socialist Republic of Viet Nam|Socialist Republic of Vietnam|VIE|VN|VNM|Viet Nam|Vietnam|Việt Nam
+Q2275601,30 Hudson Street,Q30,United States,20,tail,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q2781524,Church of Saint Ildefonso,Q45,Portugal,19,tail,test,POR|Portugal|Portuguese Republic
+Q1236608,Monza Cathedral,Q38,Italy,23,tail,test,Italian Republic|Italy|Republic of Italy
+Q966225,Goldin Finance 117,Q148,People's Republic of China,24,tail,dev,China PR|Communist China|P.R.C.|PR China|People's Republic of China|Red China|The PRC|cn|the People's Republic of China
+Q2173732,Dominion Theatre,Q145,United Kingdom,16,tail,dev,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q1378149,Sint-Salvatorskathedraal,Q31,Belgium,18,tail,test,Belgium|Kingdom of Belgium
+Q525891,Saint-Merri,Q142,France,20,tail,test,France|French Republic
+Q588559,San Sebastiano,Q38,Italy,16,tail,test,Italian Republic|Italy|Republic of Italy
+Q867537,Norbulingka,Q148,People's Republic of China,35,tail,test,China PR|Communist China|P.R.C.|PR China|People's Republic of China|Red China|The PRC|cn|the People's Republic of China
+Q945070,Estadio José Rico Pérez,Q29,Spain,30,tail,test,Kingdom of Spain|Spain
+Q474563,Teylers Museum,Q55,Netherlands,20,tail,dev,Holland|NL|NLD|Nederland|Nederlanden|Netherlands|de Nederlanden|the Netherlands
+Q943794,Pidhirtsi Castle,Q212,Ukraine,29,tail,test,Ukr.|Ukraina|Ukraine|Ukrainia|Ukraïna
+Q636780,Castle of Saint George,Q45,Portugal,31,tail,dev,POR|Portugal|Portuguese Republic
+Q2624126,Moomin Museum,Q33,Finland,21,tail,test,Finland|Finnia|Land of Thousand Lakes|Republic of Finland|Republiken Finland|Suomen tasavalta|fi
+Q2741891,Petrelë Fortress,Q222,Albania,16,tail,test,Albania|People's Republic of Albania|People's Socialist Republic of Albania|Republic of Albania|Republika Popullore Socialiste e Shqiperise|Republika Popullore e Shqiperise|Shqipërisë
+Q105516029,Tour Eria,Q142,France,16,tail,test,France|French Republic
+Q727760,Lincoln Castle,Q145,United Kingdom,24,tail,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q280141,Estadio Tomás Adolfo Ducó,Q414,Argentina,18,tail,test,Argentina|Argentine Republic|Republic of Argentina|Republica Argentina
+Q842077,Coventry Building Society Arena,Q145,United Kingdom,37,tail,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q1348023,Shinjuku Park Tower,Q17,Japan,17,tail,dev,Iapan|Iapon|Japan|Land of Rising Sun|Land of the Rising Sun|Nihon-koku|Nippon-koku|State of Japan
+Q1445540,Franso Hariri Stadium,Q796,Iraq,20,tail,test,Iraq|Republic of Iraq|iq
+Q1187606,Turku Cathedral,Q33,Finland,32,tail,test,Finland|Finnia|Land of Thousand Lakes|Republic of Finland|Republiken Finland|Suomen tasavalta|fi
+Q134124,Ocean Heights,Q878,United Arab Emirates,28,tail,test,Emirates|U.A.E.|United Arab Emirates|ae|the Emirates|the U.A.E.|the UAE|the United Arab Emirates
+Q5311089,Dubovac Castle,Q224,Croatia,19,tail,test,CRO|Croatia|HR|HRV|RH|Republic of Croatia
+Q153426,Eltz Castle,Q183,Germany,40,tail,test,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q1141336,M&T Bank Stadium,Q30,United States,27,tail,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q10939987,Tianjin Chow Tai Fook Binhai Center,Q148,People's Republic of China,19,tail,test,China PR|Communist China|P.R.C.|PR China|People's Republic of China|Red China|The PRC|cn|the People's Republic of China
+Q1049027,Jumeirah Emirates Towers Hotel,Q878,United Arab Emirates,33,tail,test,Emirates|U.A.E.|United Arab Emirates|ae|the Emirates|the U.A.E.|the UAE|the United Arab Emirates
+Q17640070,Tour Hekla,Q142,France,24,tail,test,France|French Republic
+Q514388,Loch Leven Castle,Q145,United Kingdom,19,tail,dev,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q523286,Hambach Castle,Q183,Germany,18,tail,test,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q947870,Torre Latinoamericana,Q96,Mexico,22,tail,test,MXN|Mexican Republic|Mexican United States|Mexico|US of M|United Mexican States|United States of Mexico|mx
+Q658051,San Sebastiano fuori le mura,Q38,Italy,27,tail,dev,Italian Republic|Italy|Republic of Italy
+Q408318,Bulguksa,Q884,South Korea,40,tail,test,Choson|Daehan Minguk|Daehanminguk|Hanguk|Korea (South)|Korea Republic|Rep. Korea|Republic of Korea|S. Korea|Silla|South Korea
+Q1584818,Kolossi Castle,Q229,Cyprus,21,tail,dev,Cyprus|Greek Administration of Southern Cyprus|Greek Cypriot State|Republic of Cyprus
+Q1653205,Mårbacka,Q34,Sweden,18,tail,test,Kingdom of Sweden|Sweden|Swedish Kingdom|se
+Q1291533,"Ethnographic Museum, Belgrade",Q403,Serbia,17,tail,test,RS|Republic of Serbia|Serbia
+Q24284037,Globe Life Field,Q30,United States,18,tail,dev,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q3535524,Les Mercuriales,Q142,France,20,tail,dev,France|French Republic
+Q1323932,Istana Nurul Iman,Q921,Brunei,27,tail,dev,"Brunei|Nation of Brunei, the Abode of Peace|Negara Brunei Darussalam|bn"
+Q930795,Sans-Souci Palace,Q790,Haiti,25,tail,dev,Ayiti|HAI|Haiti|Haitian Republic|Hayti|Republic of Haiti|ht
+Q1933966,Pampeloponnisiako Stadium,Q41,Greece,18,tail,test,"Ellada|Greece|Greek Republic|Hellas|Hellas, Greece|Hellenic Republic|el|gr"
+Q18602,22 Bishopsgate,Q145,United Kingdom,22,tail,dev,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q94946,Stadio Mario Rigamonti,Q38,Italy,26,tail,test,Italian Republic|Italy|Republic of Italy
+Q1514683,Santa Maria della Pace,Q38,Italy,26,tail,test,Italian Republic|Italy|Republic of Italy
+Q2665595,Palacio de San Telmo,Q29,Spain,19,tail,test,Kingdom of Spain|Spain
+Q1041737,Carleton University,Q16,Canada,31,tail,test,CA|CAN|Canada
+Q1362749,Montréal Castle,Q810,Jordan,27,tail,test,Giordania|HKJ|Hashemite Kingdom of Jordan|ISO 3166-1:JO|Jordan|Kingdom of Jordan|State of Jordan|Yarden
+Q1541365,Renaissance Center,Q30,United States,24,tail,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q1631393,Jernvallen,Q34,Sweden,20,tail,dev,Kingdom of Sweden|Sweden|Swedish Kingdom|se
+Q1129090,HaMoshava Stadium,Q801,Israel,17,tail,test,ISR|Israel|State of Israel|Yisrael|il
+Q11845,Castle of Coca,Q29,Spain,19,tail,test,Kingdom of Spain|Spain
+Q2478089,Kaunas Fortress,Q37,Lithuania,18,tail,test,Lithuania|Republic of Lithuania
+Q2730007,Amman International Stadium,Q810,Jordan,29,tail,test,Giordania|HKJ|Hashemite Kingdom of Jordan|ISO 3166-1:JO|Jordan|Kingdom of Jordan|State of Jordan|Yarden
+Q1163620,Church of Hosios David,Q41,Greece,17,tail,dev,"Ellada|Greece|Greek Republic|Hellas|Hellas, Greece|Hellenic Republic|el|gr"
+Q1072510,Chapultepec Castle,Q96,Mexico,26,tail,dev,MXN|Mexican Republic|Mexican United States|Mexico|US of M|United Mexican States|United States of Mexico|mx
+Q1507284,George Eastman Museum,Q30,United States,16,tail,dev,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q242053,Sant'Atanasio,Q38,Italy,16,tail,test,Italian Republic|Italy|Republic of Italy
+Q948178,Torre Ejecutiva Pemex,Q96,Mexico,24,tail,test,MXN|Mexican Republic|Mexican United States|Mexico|US of M|United Mexican States|United States of Mexico|mx
+Q1370676,Estádio Ilha do Retiro,Q155,Brazil,19,tail,dev,Brazil|Federative Republic of Brazil
+Q573662,Marmorpalais,Q183,Germany,16,tail,dev,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q569546,Sigmaringen Castle,Q183,Germany,23,tail,dev,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q115139,Sarvestan Palace,Q794,Iran,19,tail,test,IRI|Iran|Islamic Rep. Iran|Islamic Republic of Iran|ir
+Q1360313,Treasure Island Hotel and Casino,Q30,United States,18,tail,dev,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q995371,Tour CB21,Q142,France,19,tail,dev,France|French Republic
+Q1082964,Osu Castle,Q117,Ghana,27,tail,test,Ghana
+Q1267721,Palazzo Ducale,Q38,Italy,22,tail,test,Italian Republic|Italy|Republic of Italy
+Q384841,Old Castle,Q183,Germany,22,tail,test,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q1169370,Royal Court Theatre,Q145,United Kingdom,19,tail,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q15961492,The Museum of Innocence,Q43,Turkey,26,tail,test,Republic of Turkey|Republic of Türkiye|Turkey
+Q789081,Baksei Chamkrong,Q424,Cambodia,23,tail,test,Cambodia|Camboya|Campuchia|Kambodzha|Kamboja|Kampuchea|Kingdom of Cambodia|kh
+Q2307647,Palace of Facets,Q159,Russia,21,tail,test,Russia|Russian Federation
+Q2334536,Gül Mosque,Q43,Turkey,23,tail,test,Republic of Turkey|Republic of Türkiye|Turkey
+Q15043487,Havana Cathedral,Q241,Cuba,24,tail,test,Cuba|Republic of Cuba|cu
+Q719794,Church of the Gesù,Q38,Italy,40,tail,test,Italian Republic|Italy|Republic of Italy
+Q3078453,Porta Macedonia,Q221,North Macedonia,21,tail,test,FYR Macedonia|Former Yugoslav Republic of Macedonia|MK|MKD|Macedonia|Makedonia|NM|North Macedonia|Republic of Macedonia|Republic of North Macedonia
+Q1369635,Estadio Sergio León Chávez,Q96,Mexico,17,tail,test,MXN|Mexican Republic|Mexican United States|Mexico|US of M|United Mexican States|United States of Mexico|mx
+Q5047540,Korean Central History Museum,Q423,North Korea,16,tail,test,DPR Korea|DPRK|Democratic People's Republic of Korea|N. Korea|North Korea|kp
+Q621027,Gradski stadion,Q225,Bosnia and Herzegovina,19,tail,test,B&H|Bosnia & Herzegovina|Bosnia and Hercegovina|Bosnia and Herzegovina|Bosnia-Herzegovina|ba
+Q806676,Miami Tower,Q30,United States,19,tail,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q1033076,Candlestick Park,Q30,United States,22,tail,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q1771247,Chang Arena,Q869,Thailand,17,tail,test,Kingdom of Siam|Kingdom of Thailand|Prathet Thai|Ratcha-anachak Thai|Thai|Thailand|The Kingdom of Siam|The Kingdom of Thailand|th
+Q1050032,Museu Picasso,Q29,Spain,30,tail,dev,Kingdom of Spain|Spain
+Q387667,Mozarthaus Vienna,Q40,Austria,18,tail,test,Austria|Republic of Austria
+Q4281595,Kuindzhi Art Museum,Q212,Ukraine,20,tail,test,Ukr.|Ukraina|Ukraine|Ukrainia|Ukraïna
+Q2381941,"Suleymaniye Mosque, Rhodes",Q41,Greece,16,tail,test,"Ellada|Greece|Greek Republic|Hellas|Hellas, Greece|Hellenic Republic|el|gr"
+Q203797,"Eggenberg Castle, Graz",Q40,Austria,39,tail,test,Austria|Republic of Austria
+Q930613,Basilica of St. John,Q43,Turkey,18,tail,test,Republic of Turkey|Republic of Türkiye|Turkey
+Q247960,Ateni Sioni Church,Q230,Georgia,19,tail,dev,Georgia|Georgia (Sakartvelo)|Georgia (country)|Republic of Georgia|Sakartvelo
+Q506465,Reichsburg Cochem,Q183,Germany,19,tail,test,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q1428044,Patna Museum,Q668,India,16,tail,test,Al Hind|Bharat Ganarajya|Bharata|Bharatvarsh|Hindoostan|Hindustan|India|Indostan|Republic of India|Tenjiku|Tianzhu
+Q1072186,Hubert H. Humphrey Metrodome,Q30,United States,18,tail,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q2429287,Ali Qapu,Q794,Iran,27,tail,dev,IRI|Iran|Islamic Rep. Iran|Islamic Republic of Iran|ir
+Q1415972,Kon-Tiki Museum,Q20,Norway,25,tail,test,Kingdom of Norway|Norway
+Q912447,Chinon Castle,Q142,France,30,tail,test,France|French Republic
+Q820872,Ca' d'Oro,Q38,Italy,35,tail,test,Italian Republic|Italy|Republic of Italy
+Q901058,Vehicle Assembly Building,Q30,United States,29,tail,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q1474792,Temple at Uppsala,Q34,Sweden,23,tail,test,Kingdom of Sweden|Sweden|Swedish Kingdom|se
+Q3320428,Ipurúa Municipal Stadium,Q29,Spain,29,tail,test,Kingdom of Spain|Spain
+Q2468497,Kaunas Castle,Q37,Lithuania,21,tail,test,Lithuania|Republic of Lithuania
+Q8530,Tour Oxygène,Q142,France,16,tail,test,France|French Republic
+Q1419068,Firhill Stadium,Q145,United Kingdom,17,tail,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q1246842,Santa María del Naranjo,Q29,Spain,31,tail,test,Kingdom of Spain|Spain
+Q654279,Aria Resort and Casino,Q30,United States,16,tail,dev,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q781961,One Court Square,Q30,United States,19,tail,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q756807,Ca' Pesaro,Q38,Italy,27,tail,test,Italian Republic|Italy|Republic of Italy
+Q1151177,PNC Park,Q30,United States,26,tail,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q1848770,Olympic Stadium of Radès,Q948,Tunisia,23,tail,test,Republic of Tunisia|Tunisia|Tunisian Republic|tn
+Q2016089,Si Jalak Harupat Stadium,Q252,Indonesia,19,tail,test,Indonesia|Republic of Indonesia|id
+Q90801,Rumeli Hisarı,Q43,Turkey,34,tail,test,Republic of Turkey|Republic of Türkiye|Turkey
+Q1177765,Tower of David,Q219060,Palestine,34,tail,dev,PSE|Palestine|State of Palestine
+Q2744014,ArtScience Museum,Q334,Singapore,18,tail,test,Garden City|Lion City|Republic of Singapore|S'pore|Singapore|Singapore City|sg
+Q1060615,Tosu Stadium,Q17,Japan,16,tail,test,Iapan|Iapon|Japan|Land of Rising Sun|Land of the Rising Sun|Nihon-koku|Nippon-koku|State of Japan
+Q777039,Guy's Hospital,Q145,United Kingdom,16,tail,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q642866,Chicago Theatre,Q30,United States,16,tail,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q234048,Soestdijk Palace,Q55,Netherlands,24,tail,test,Holland|NL|NLD|Nederland|Nederlanden|Netherlands|de Nederlanden|the Netherlands
+Q1644597,Martorana,Q38,Italy,26,tail,dev,Italian Republic|Italy|Republic of Italy
+Q666984,Hallenstadion,Q39,Switzerland,18,tail,test,Confoederatio Helvetica|Swiss|Swiss Confederation|Switzerland
+Q315644,Deutscher Dom,Q183,Germany,26,tail,dev,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q697003,Artstetten Castle,Q40,Austria,16,tail,dev,Austria|Republic of Austria
+Q1787863,Olympia Centre,Q30,United States,17,tail,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q254650,Alexandra Palace,Q145,United Kingdom,29,tail,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q244358,56 Leonard Street,Q30,United States,18,tail,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q206246,Citadel of Damascus,Q858,Syria,20,tail,test,Syria|Syrian Arab Republic|Sūriyā
+Q595802,Museum Plantin-Moretus,Q31,Belgium,39,tail,test,Belgium|Kingdom of Belgium
+Q4991927,Oscar Niemeyer Museum,Q155,Brazil,16,tail,test,Brazil|Federative Republic of Brazil
+Q920809,Pirelli Tower,Q38,Italy,26,tail,test,Italian Republic|Italy|Republic of Italy
+Q1011806,Château de Foix,Q142,France,22,tail,test,France|French Republic
+Q2984041,Keri Lighthouse,Q191,Estonia,26,tail,dev,Eesti Vabariik|Estland|Estonia|Republic of Estonia|ee
+Q2614510,Capital Tower,Q334,Singapore,18,tail,test,Garden City|Lion City|Republic of Singapore|S'pore|Singapore|Singapore City|sg
+Q643328,Lang Park,Q408,Australia,30,tail,dev,'Straya|Aussieland|Australia|Commonwealth of Australia|Down Under|New Holland|New Hollandia|Nova Hollandia|Oz|Stralia|Straya|Stria|The Commonwealth of Australia
+Q1568434,Yale University Art Gallery,Q30,United States,21,tail,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q1133288,Temple of Caesar,Q38,Italy,31,tail,test,Italian Republic|Italy|Republic of Italy
+Q2525218,Rashid Stadium,Q878,United Arab Emirates,21,tail,test,Emirates|U.A.E.|United Arab Emirates|ae|the Emirates|the U.A.E.|the UAE|the United Arab Emirates
+Q4875423,Turner Stadium,Q801,Israel,19,tail,test,ISR|Israel|State of Israel|Yisrael|il
+Q2568412,Museum of the Americas,Q29,Spain,19,tail,test,Kingdom of Spain|Spain
+Q154775,Tsitsernakaberd,Q399,Armenia,36,tail,dev,Armenia|Hayastan|Hayastani Hanrapetut’yun|Republic of Armenia|Հայաստան
+Q686773,Aula Palatina,Q183,Germany,35,tail,test,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q168575,CTF Finance Centre,Q148,People's Republic of China,28,tail,dev,China PR|Communist China|P.R.C.|PR China|People's Republic of China|Red China|The PRC|cn|the People's Republic of China
+Q2330391,Palácio da Alvorada,Q155,Brazil,24,tail,test,Brazil|Federative Republic of Brazil
+Q2096776,El Capricho,Q29,Spain,18,tail,test,Kingdom of Spain|Spain
+Q2986286,St Blaise's Church,Q224,Croatia,17,tail,dev,CRO|Croatia|HR|HRV|RH|Republic of Croatia
+Q2305473,Bodrum Mosque,Q43,Turkey,26,tail,test,Republic of Turkey|Republic of Türkiye|Turkey
+Q2301069,1201 Third Avenue,Q30,United States,17,tail,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q197833,China Zun,Q148,People's Republic of China,29,tail,test,China PR|Communist China|P.R.C.|PR China|People's Republic of China|Red China|The PRC|cn|the People's Republic of China
+Q2319878,Barbican Estate,Q145,United Kingdom,25,tail,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q220583,Sybaris,Q38,Italy,35,tail,test,Italian Republic|Italy|Republic of Italy
+Q333305,One Raffles Place,Q334,Singapore,26,tail,test,Garden City|Lion City|Republic of Singapore|S'pore|Singapore|Singapore City|sg
+Q389210,Pamplona Cathedral,Q29,Spain,31,tail,test,Kingdom of Spain|Spain
+Q482631,Deoksugung,Q884,South Korea,32,tail,test,Choson|Daehan Minguk|Daehanminguk|Hanguk|Korea (South)|Korea Republic|Rep. Korea|Republic of Korea|S. Korea|Silla|South Korea
+Q133599,500 Fifth Avenue,Q30,United States,19,tail,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q2628455,Palace of Linares,Q29,Spain,16,tail,dev,Kingdom of Spain|Spain
+Q10855544,Galleria dell'Accademia,Q38,Italy,31,tail,dev,Italian Republic|Italy|Republic of Italy
+Q1981080,Sirius Arena,Q159,Russia,22,tail,dev,Russia|Russian Federation
+Q850547,Gate Tower Building,Q17,Japan,21,tail,test,Iapan|Iapon|Japan|Land of Rising Sun|Land of the Rising Sun|Nihon-koku|Nippon-koku|State of Japan
+Q258908,Salzburg Cathedral,Q40,Austria,36,tail,dev,Austria|Republic of Austria
+Q833817,Friedrichswerder Church,Q183,Germany,20,tail,test,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q1072284,Huis ten Bosch,Q55,Netherlands,25,tail,test,Holland|NL|NLD|Nederland|Nederlanden|Netherlands|de Nederlanden|the Netherlands
+Q840778,Suez Stadium,Q79,Egypt,17,tail,test,Arab Rep. Egypt|Arab Republic of Egypt|Egypt|Misr|Rep. Egypt|Republic of Egypt
+Q1093913,Moshe Aviv Tower,Q801,Israel,24,tail,test,ISR|Israel|State of Israel|Yisrael|il
+Q2074091,200 Vesey Street,Q30,United States,23,tail,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q319745,Aberystwyth Castle,Q145,United Kingdom,18,tail,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q876286,White City Stadium,Q145,United Kingdom,33,tail,dev,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q950970,Dover Castle,Q145,United Kingdom,36,tail,dev,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q785544,Olesko Castle,Q212,Ukraine,25,tail,test,Ukr.|Ukraina|Ukraine|Ukrainia|Ukraïna
+Q2817374,Bunyodkor Stadium,Q265,Uzbekistan,27,tail,test,Republic of Uzbekistan|Uzbekistan
+Q597055,Nukus Museum of Art,Q265,Uzbekistan,21,tail,dev,Republic of Uzbekistan|Uzbekistan
+Q464416,Neanderthal Museum,Q183,Germany,16,tail,test,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q1847119,National Theatre in Belgrade,Q403,Serbia,26,tail,test,RS|Republic of Serbia|Serbia
+Q1335201,St Martin-in-the-Fields,Q145,United Kingdom,37,tail,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q1630170,"St. Paul's Cathedral, Mdina",Q233,Malta,26,tail,dev,Malta|Republic of Malta
+Q1066641,Charlottenlund Palace,Q35,Denmark,26,tail,test,Danemark|Dania|Danmark|Denmark|Denmark proper|TAN|dk|metropolitan Denmark
+Q1400323,Sarajevo Tunnel,Q225,Bosnia and Herzegovina,24,tail,test,B&H|Bosnia & Herzegovina|Bosnia and Hercegovina|Bosnia and Herzegovina|Bosnia-Herzegovina|ba
+Q14684154,Salesforce Tower,Q30,United States,18,tail,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q685940,Basilica of the Holy Cross in Jerusalem,Q38,Italy,35,tail,test,Italian Republic|Italy|Republic of Italy
+Q946702,Dunrobin Castle,Q145,United Kingdom,21,tail,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q739802,Sarmizegetusa Regia,Q218,Romania,32,tail,test,Romania|Roumania|Rumania
+Q1258370,Drents Museum,Q55,Netherlands,17,tail,test,Holland|NL|NLD|Nederland|Nederlanden|Netherlands|de Nederlanden|the Netherlands
+Q824352,Ullevi,Q34,Sweden,35,tail,test,Kingdom of Sweden|Sweden|Swedish Kingdom|se
+Q1513107,London Dungeon,Q145,United Kingdom,18,tail,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q13453137,Museum of San Marco,Q38,Italy,22,tail,test,Italian Republic|Italy|Republic of Italy
+Q2140145,Santa Maria dell'Anima,Q38,Italy,19,tail,test,Italian Republic|Italy|Republic of Italy
+Q1853159,Providence Stadium,Q734,Guyana,20,tail,test,Co-operative Republic of Guyana|Guyana|Republic of Guyana|gy
+Q1430185,Rockefeller Museum,Q801,Israel,23,tail,dev,ISR|Israel|State of Israel|Yisrael|il
+Q1698949,St. John's Church,Q191,Estonia,28,tail,test,Eesti Vabariik|Estland|Estonia|Republic of Estonia|ee
+Q933903,St. Mary's Basilica in Gdańsk,Q36,Poland,30,tail,test,Poland|Republic of Poland
+Q4635219,33 Thomas Street,Q30,United States,20,tail,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q2986276,Sponza Palace,Q224,Croatia,21,tail,test,CRO|Croatia|HR|HRV|RH|Republic of Croatia
+Q80843,Troja Palace,Q213,Czech Republic,19,tail,test,Czech Republic|Czechia|the Czech Republic
+Q798416,John Hancock Tower,Q30,United States,21,tail,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q775644,Rubenshuis,Q31,Belgium,24,tail,test,Belgium|Kingdom of Belgium
+Q533680,"Santa Maria dei Miracoli, Venice",Q38,Italy,24,tail,dev,Italian Republic|Italy|Republic of Italy
+Q978904,Perth Rectangular Stadium,Q408,Australia,21,tail,test,'Straya|Aussieland|Australia|Commonwealth of Australia|Down Under|New Holland|New Hollandia|Nova Hollandia|Oz|Stralia|Straya|Stria|The Commonwealth of Australia
+Q1057274,Estádio D. Afonso Henriques,Q45,Portugal,32,tail,test,POR|Portugal|Portuguese Republic
+Q138768,One Churchill Place,Q145,United Kingdom,19,tail,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q565345,Falkland Palace,Q145,United Kingdom,22,tail,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q3662579,Conisbrough Castle,Q145,United Kingdom,17,tail,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q18642,Clérigos Church,Q45,Portugal,17,tail,test,POR|Portugal|Portuguese Republic
+Q662491,Château de Saint-Cloud,Q142,France,23,tail,test,France|French Republic
+Q1139123,Dalian Eton Center,Q148,People's Republic of China,16,tail,test,China PR|Communist China|P.R.C.|PR China|People's Republic of China|Red China|The PRC|cn|the People's Republic of China
+Q1201889,Tokyo Opera City Tower,Q17,Japan,17,tail,test,Iapan|Iapon|Japan|Land of Rising Sun|Land of the Rising Sun|Nihon-koku|Nippon-koku|State of Japan
+Q2000542,Saint Michael's Castle,Q159,Russia,32,tail,dev,Russia|Russian Federation
+Q4833028,Cathedral of Kars,Q43,Turkey,16,tail,dev,Republic of Turkey|Republic of Türkiye|Turkey
+Q306006,Abbasiyyin Stadium,Q858,Syria,16,tail,test,Syria|Syrian Arab Republic|Sūriyā
+Q1589230,Borgholm Castle,Q34,Sweden,20,tail,test,Kingdom of Sweden|Sweden|Swedish Kingdom|se
+Q22948398,Museum of the Future,Q878,United Arab Emirates,22,tail,test,Emirates|U.A.E.|United Arab Emirates|ae|the Emirates|the U.A.E.|the UAE|the United Arab Emirates
+Q1738764,Kenilworth Castle,Q145,United Kingdom,22,tail,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q1049016,Castelvecchio,Q38,Italy,16,tail,test,Italian Republic|Italy|Republic of Italy
+Q1043967,Carnegie Museum of Art,Q30,United States,18,tail,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q211662,Pontiac Silverdome,Q30,United States,23,tail,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q195513,Odesa Opera and Ballet Theater,Q212,Ukraine,31,tail,dev,Ukr.|Ukraina|Ukraine|Ukrainia|Ukraïna
+Q517374,San Giorgio in Velabro,Q38,Italy,20,tail,test,Italian Republic|Italy|Republic of Italy
+Q6156079,Estadio Atanasio Girardot,Q739,Colombia,18,tail,test,Colombia|Colombiá|Republic of Colombia|The Republic of Colombia
+Q3527492,Juliusz Słowacki Theatre,Q36,Poland,16,tail,test,Poland|Republic of Poland
+Q1147168,La Brea Tar Pits,Q30,United States,34,tail,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q2618925,Blue Bridge,Q159,Russia,17,tail,test,Russia|Russian Federation
+Q557933,Al Hamra Tower,Q817,Kuwait,38,tail,test,Kuwait|State of Kuwait|kw
+Q15221182,Fukushima Azuma Baseball Stadium,Q17,Japan,20,tail,test,Iapan|Iapon|Japan|Land of Rising Sun|Land of the Rising Sun|Nihon-koku|Nippon-koku|State of Japan
+Q2111621,Palace of the Dukes of Burgundy,Q142,France,18,tail,test,France|French Republic
+Q2004104,Sanctuary of the Madonna di San Luca,Q38,Italy,19,tail,test,Italian Republic|Italy|Republic of Italy
+Q1139142,Beijing National Indoor Stadium,Q148,People's Republic of China,31,tail,test,China PR|Communist China|P.R.C.|PR China|People's Republic of China|Red China|The PRC|cn|the People's Republic of China
+Q3750408,1345 Avenue of the Americas,Q30,United States,16,tail,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q5305270,Dragon River Bridge,Q881,Vietnam,19,tail,test,SRV|Socialist Republic of Viet Nam|Socialist Republic of Vietnam|VIE|VN|VNM|Viet Nam|Vietnam|Việt Nam
+Q134137,DAMAC Heights,Q878,United Arab Emirates,17,tail,test,Emirates|U.A.E.|United Arab Emirates|ae|the Emirates|the U.A.E.|the UAE|the United Arab Emirates
+Q1526417,Santa Pudenziana,Q38,Italy,23,tail,test,Italian Republic|Italy|Republic of Italy
+Q1012561,Häme Castle,Q33,Finland,24,tail,test,Finland|Finnia|Land of Thousand Lakes|Republic of Finland|Republiken Finland|Suomen tasavalta|fi
+Q571763,Barolo Palace,Q414,Argentina,29,tail,test,Argentina|Argentine Republic|Republic of Argentina|Republica Argentina
+Q3278276,Shenzhen Universiade Sports Centre,Q148,People's Republic of China,16,tail,test,China PR|Communist China|P.R.C.|PR China|People's Republic of China|Red China|The PRC|cn|the People's Republic of China
+Q1516747,Château de Commarque,Q142,France,17,tail,test,France|French Republic
+Q2600886,Oxford Castle,Q145,United Kingdom,19,tail,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q15284032,Agia Sophia Stadium,Q41,Greece,23,tail,test,"Ellada|Greece|Greek Republic|Hellas|Hellas, Greece|Hellenic Republic|el|gr"
+Q764804,Kenwood House,Q145,United Kingdom,24,tail,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q731284,Temple of Vespasian and Titus,Q38,Italy,25,tail,test,Italian Republic|Italy|Republic of Italy
+Q1756313,Vasco da Gama Tower,Q45,Portugal,22,tail,test,POR|Portugal|Portuguese Republic
+Q283153,Palazzo Nuovo,Q38,Italy,16,tail,test,Italian Republic|Italy|Republic of Italy
+Q602853,Saint Sophia Church,Q219,Bulgaria,25,tail,test,Bulgaria|Bulgarian Republic|Republic of Bulgaria
+Q1067494,Temple,Q142,France,19,tail,test,France|French Republic
+Q259307,Hidegkuti Nándor Stadion,Q28,Hungary,18,tail,test,Hungary
+Q20423672,Temple of Hercules,Q810,Jordan,16,tail,test,Giordania|HKJ|Hashemite Kingdom of Jordan|ISO 3166-1:JO|Jordan|Kingdom of Jordan|State of Jordan|Yarden
+Q257210,Marksburg,Q183,Germany,23,tail,test,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q1456939,Temple of Peace,Q38,Italy,28,tail,test,Italian Republic|Italy|Republic of Italy
+Q2177200,Dumbarton Castle,Q145,United Kingdom,26,tail,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q531897,Angel Stadium of Anaheim,Q30,United States,25,tail,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q2595999,Church of Saint Nicholas,Q213,Czech Republic,23,tail,test,Czech Republic|Czechia|the Czech Republic
+Q2239788,O2 Academy Brixton,Q145,United Kingdom,21,tail,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q3533204,Triangle,Q142,France,18,tail,test,France|French Republic
+Q935919,JPMorgan Chase Tower,Q30,United States,28,tail,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q475338,Great Palace of Constantinople,Q43,Turkey,28,tail,test,Republic of Turkey|Republic of Türkiye|Turkey
+Q130381,Commonwealth Stadium,Q16,Canada,25,tail,test,CA|CAN|Canada
+Q1810918,Malmö Castle,Q34,Sweden,24,tail,test,Kingdom of Sweden|Sweden|Swedish Kingdom|se
+Q1048850,Castello Ursino,Q38,Italy,17,tail,test,Italian Republic|Italy|Republic of Italy
+Q867329,Saint Charles at the Four Fountains,Q38,Italy,34,tail,test,Italian Republic|Italy|Republic of Italy
+Q1013472,Palanok Castle,Q212,Ukraine,25,tail,test,Ukr.|Ukraina|Ukraine|Ukrainia|Ukraïna
+Q872222,Opéra-Comique,Q142,France,30,tail,test,France|French Republic
+Q1243760,Saint-Julien-le-Pauvre,Q142,France,19,tail,test,France|French Republic
+Q1280925,Our Lady of Victory Church,Q233,Malta,22,tail,dev,Malta|Republic of Malta
+Q663758,Centre sportif de Colovray,Q39,Switzerland,18,tail,dev,Confoederatio Helvetica|Swiss|Swiss Confederation|Switzerland
+Q897169,Braemar Castle,Q145,United Kingdom,17,tail,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q706970,Eanna,Q796,Iraq,24,tail,test,Iraq|Republic of Iraq|iq
+Q118256,Špilberk Castle,Q213,Czech Republic,27,tail,dev,Czech Republic|Czechia|the Czech Republic
+Q727590,Henryk Reyman Municipal Stadium,Q36,Poland,20,tail,test,Poland|Republic of Poland
+Q1130487,Dinamo Stadium,Q184,Belarus,35,tail,dev,Belarus|Belorussia|Bielaruś|Bielorussia|Byeloruss|Byelorussia|Republic of Belarus|Respublika Belarus'|Respublika Bielaruś|White Russia|White Ruthenia|by
+Q1289258,Château des ducs de Bretagne,Q142,France,20,tail,test,France|French Republic
+Q858940,Castel Capuano,Q38,Italy,18,tail,test,Italian Republic|Italy|Republic of Italy
+Q1459037,Royal Collection,Q145,United Kingdom,27,tail,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q1501652,General Motors Building,Q30,United States,17,tail,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q844694,Kerak Castle,Q810,Jordan,20,tail,test,Giordania|HKJ|Hashemite Kingdom of Jordan|ISO 3166-1:JO|Jordan|Kingdom of Jordan|State of Jordan|Yarden
+Q3142395,Hyatt Regency Paris Etoile,Q142,France,31,tail,test,France|French Republic
+Q2410449,Eski Imaret Mosque,Q43,Turkey,25,tail,test,Republic of Turkey|Republic of Türkiye|Turkey
+Q922143,Museum of the City of Skopje,Q221,North Macedonia,18,tail,test,FYR Macedonia|Former Yugoslav Republic of Macedonia|MK|MKD|Macedonia|Makedonia|NM|North Macedonia|Republic of Macedonia|Republic of North Macedonia
+Q1535913,Mikheil Meskhi Stadium,Q230,Georgia,27,tail,test,Georgia|Georgia (Sakartvelo)|Georgia (country)|Republic of Georgia|Sakartvelo
+Q1482013,Trakai Island Castle,Q37,Lithuania,37,tail,dev,Lithuania|Republic of Lithuania
+Q81593,Alanya Castle,Q43,Turkey,20,tail,dev,Republic of Turkey|Republic of Türkiye|Turkey
+Q638250,Notre Dame du Haut,Q142,France,39,tail,test,France|French Republic
+Q1139633,One Times Square,Q30,United States,19,tail,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q1858012,Ivan Vazov National Theatre,Q219,Bulgaria,23,tail,test,Bulgaria|Bulgarian Republic|Republic of Bulgaria
+Q546122,Eddystone Lighthouse,Q145,United Kingdom,19,tail,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q750571,Whistler Olympic Park,Q16,Canada,23,tail,test,CA|CAN|Canada
+Q10729282,Jamuna Bridge,Q902,Bangladesh,18,tail,test,Bangla Desh|Bangladesh|Country of Bengal|Land of Bengal|People's Republic of Bangladesh|bd
+Q3329592,Museum of Contemporary Art Skopje,Q221,North Macedonia,16,tail,test,FYR Macedonia|Former Yugoslav Republic of Macedonia|MK|MKD|Macedonia|Makedonia|NM|North Macedonia|Republic of Macedonia|Republic of North Macedonia
+Q1323870,El Ateneo Grand Splendid,Q414,Argentina,17,tail,dev,Argentina|Argentine Republic|Republic of Argentina|Republica Argentina
+Q1521498,Ghazi Stadium,Q889,Afghanistan,24,tail,test,Affghanistan|Affghanisthan|Affghaunistan|Afghania|Afghanistan|Afghanisthan|Afghaunistan|Afghaunistaun
+Q2028348,Geguti,Q230,Georgia,19,tail,test,Georgia|Georgia (Sakartvelo)|Georgia (country)|Republic of Georgia|Sakartvelo
+Q2187746,Lake Palace,Q668,India,25,tail,dev,Al Hind|Bharat Ganarajya|Bharata|Bharatvarsh|Hindoostan|Hindustan|India|Indostan|Republic of India|Tenjiku|Tianzhu
+Q17154027,Karlatornet,Q34,Sweden,16,tail,test,Kingdom of Sweden|Sweden|Swedish Kingdom|se
+Q19492,Princess Tower,Q878,United Arab Emirates,35,tail,test,Emirates|U.A.E.|United Arab Emirates|ae|the Emirates|the U.A.E.|the UAE|the United Arab Emirates
+Q1103550,Pinacoteca Nazionale di Bologna,Q38,Italy,16,tail,dev,Italian Republic|Italy|Republic of Italy
+Q1132683,Hever Castle,Q145,United Kingdom,30,tail,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q391648,Cayan Tower,Q878,United Arab Emirates,33,tail,test,Emirates|U.A.E.|United Arab Emirates|ae|the Emirates|the U.A.E.|the UAE|the United Arab Emirates
+Q913981,Urquhart Castle,Q145,United Kingdom,27,tail,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q2268271,Convent of Las Descalzas Reales,Q29,Spain,17,tail,dev,Kingdom of Spain|Spain
+Q283417,Legislative Palace,Q77,Uruguay,17,tail,test,Eastern Republic of Uruguay|Oriental Republic of Uruguay|URU|Uruguay|uy
+Q1368043,Mandalay Bay,Q30,United States,27,tail,test,Merica|Murica|U. S.|U. S. A.|U.S. of America|US of A|US of America|United States|United States of America|the States|the U.S.|the U.S. of A|the U.S. of America|the U.S.A.|the US|the US of A|the US of America|the USA|the United States|the United States of America
+Q1203458,Galleria Doria Pamphilj,Q38,Italy,26,tail,test,Italian Republic|Italy|Republic of Italy
+Q1327324,Estádio Nacional,Q45,Portugal,29,tail,test,POR|Portugal|Portuguese Republic
+Q1568136,San Bernardo alle Terme,Q38,Italy,25,tail,test,Italian Republic|Italy|Republic of Italy
+Q810103,San Petronio Basilica,Q38,Italy,23,tail,test,Italian Republic|Italy|Republic of Italy
+Q1939953,Ribeira Palace,Q45,Portugal,16,tail,test,POR|Portugal|Portuguese Republic
+Q327265,Heidelberg Castle,Q183,Germany,40,tail,test,BRD|DE|DEU|FRG|Federal Republic of Germany|Germany
+Q777726,Church of the Holy Spirit,Q191,Estonia,21,tail,test,Eesti Vabariik|Estland|Estonia|Republic of Estonia|ee
+Q1848312,Stade Gaston Gérard,Q142,France,21,tail,test,France|French Republic
+Q578771,Palace of Tau,Q142,France,32,tail,dev,France|French Republic
+Q206225,Ankara Castle,Q43,Turkey,23,tail,test,Republic of Turkey|Republic of Türkiye|Turkey
+Q1369163,Unique Diego Armando Maradona Stadium,Q414,Argentina,25,tail,dev,Argentina|Argentine Republic|Republic of Argentina|Republica Argentina
+Q917702,Peleș Castle,Q218,Romania,36,tail,dev,Romania|Roumania|Rumania
+Q2227269,Las Lajas Sanctuary,Q739,Colombia,33,tail,test,Colombia|Colombiá|Republic of Colombia|The Republic of Colombia
+Q742767,Dublin Castle,Q27,Ireland,39,tail,test,Ireland|Irish Republic|Republic of Ireland|Southern Ireland
+Q868806,The Old Vic,Q145,United Kingdom,31,tail,test,G B|Great Britain|Great Britain and Northern Ireland|U K|United Kingdom|United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom|the United Kingdom of Great Britain and Northern Ireland
+Q373326,Viljandi Castle,Q191,Estonia,19,tail,test,Eesti Vabariik|Estland|Estonia|Republic of Estonia|ee
+Q3108699,Spartak Stadium,Q813,Kyrgyzstan,21,tail,dev,Kyrgyz Republic|Kyrgyzstan|kg

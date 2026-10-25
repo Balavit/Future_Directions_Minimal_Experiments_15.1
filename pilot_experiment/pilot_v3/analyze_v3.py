@@ -12,7 +12,9 @@ INK, BLUE, TEAL, SAND, ROSE, GRAY = "#1B2A41", "#2F5D8A", "#2C8C8C", "#C79A42", 
 
 
 def score(d):
-    return np.minimum(d.nec_z.clip(-10, 10), d.suf_z.clip(-10, 10)).values       # both tests must support the claim
+    """Primary score: the smaller of the two excess effects over their nulls, in margin (log-odds) units. Both tests must support the claim.
+    (z-scores are kept in the output as a secondary measure; they blow up when the null spread is tiny.)"""
+    return np.minimum(d.nec - d.nec_null_mean, d.suf - d.suf_null_mean).values
 
 
 def loglik(X, y):
@@ -61,7 +63,8 @@ def main():
     S["test"] = {"n": int(len(t)), "accuracy": float(y.mean()), "n_incorrect": int((1 - y).sum())}
     s = score(t); conf = t.conf.values
     base = np.c_[np.log(t.conf.clip(lower=1e-6)), t.agree]
-    cmp = {"ISR3 score (min of necessity, sufficiency z)": s, "necessity z": t.nec_z.clip(-10, 10).values, "sufficiency z": t.suf_z.clip(-10, 10).values,
+    cmp = {"ISR3 score (min excess effect)": s, "necessity excess": (t.nec - t.nec_null_mean).values, "sufficiency excess": (t.suf - t.suf_null_mean).values,
+           "z-score version (secondary)": np.minimum(t.nec_z.clip(-10, 10), t.suf_z.clip(-10, 10)).values,
            "model confidence": conf, "template agreement": t.agree.values}
     S["test"]["auroc"] = {n: dict(value=auroc(v, y), ci95=bootstrap(auroc, v, y)) for n, v in cmp.items()}
     S["test"]["H2_lr_test_added_value"] = lr_test(base, np.c_[base, s], y)
@@ -74,17 +77,17 @@ def main():
     tb, p = fisher(t.isr3, t.correct); S["test"]["H4_fisher_isr3_x_correct"] = dict(table=tb, p=p)
     S["test"]["by_group"] = {g: dict(n=int(len(x)), accuracy=float(x.correct.mean())) for g, x in t.groupby("group")}
     h = S["test"]
-    h1 = h["auroc"]["ISR3 score (min of necessity, sufficiency z)"]["ci95"][0] > 0.5
+    h1 = h["auroc"]["ISR3 score (min excess effect)"]["ci95"][0] > 0.5
     h2 = h["H2_lr_test_added_value"]["p"] < 0.05 and h["H2_support_coef"] > 0
     h3 = h["H3_confidence_matched_auroc"]["ci95"][0] > 0.5
     S["verdict"] = dict(H1=bool(h1), H2=bool(h2), H3=bool(h3), supported=bool(h1 and h2 and h3))
     S["test_k_sweep_descriptive"] = [dict(k=int(kk), auroc=auroc(score(g), g.correct.values), isr3_rate=float(g.isr3.mean())) for kk, g in test.groupby("k") if g.correct.nunique() == 2]
     fig, ax = plt.subplots(1, 3, figsize=(7.2, 2.7))
-    ax[0].scatter(t.nec_z[y == 1], t.suf_z[y == 1], s=9, c=TEAL, alpha=.7, lw=0, label="correct")
-    ax[0].scatter(t.nec_z[y == 0], t.suf_z[y == 0], s=9, c=ROSE, alpha=.8, lw=0, label="incorrect")
+    ax[0].scatter((t.nec - t.nec_null_mean)[y == 1], (t.suf - t.suf_null_mean)[y == 1], s=9, c=TEAL, alpha=.7, lw=0, label="correct")
+    ax[0].scatter((t.nec - t.nec_null_mean)[y == 0], (t.suf - t.suf_null_mean)[y == 0], s=9, c=ROSE, alpha=.8, lw=0, label="incorrect")
     ax[0].axhline(0, color="#bbb", lw=.7); ax[0].axvline(0, color="#bbb", lw=.7)
-    ax[0].set(xlabel="necessity z", ylabel="sufficiency z", title="(a) Two tests"); ax[0].legend(frameon=False, fontsize=7)
-    nm = ["ISR3 score (min of necessity, sufficiency z)", "model confidence", "template agreement"]
+    ax[0].set(xlabel="necessity, excess over null", ylabel="sufficiency, excess over null", title="(a) Two tests"); ax[0].legend(frameon=False, fontsize=7)
+    nm = ["ISR3 score (min excess effect)", "model confidence", "template agreement"]
     v = [h["auroc"][n]["value"] for n in nm]; ci = [h["auroc"][n]["ci95"] for n in nm]
     ax[1].bar(range(3), v, color=[BLUE, SAND, GRAY], yerr=[[a_ - c[0] for a_, c in zip(v, ci)], [c[1] - a_ for a_, c in zip(v, ci)]], ecolor=INK, capsize=2)
     ax[1].axhline(.5, color="#bbb", lw=.8, ls="--"); ax[1].set_xticks(range(3)); ax[1].set_xticklabels(["ISR3", "confidence", "agreement"], fontsize=7)

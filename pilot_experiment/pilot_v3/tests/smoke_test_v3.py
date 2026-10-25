@@ -52,7 +52,7 @@ rng = np.random.default_rng(0); n = 500; cor = rng.integers(0, 2, n); conf = np.
 for i in range(n):
     for k in (5, 10):
         nz, sz = rng.normal(2 * cor[i] - 0.5, 1), rng.normal(1.5 * cor[i] - 0.5, 1)
-        recs.append(dict(subject=f"s{i}", correct=int(cor[i]), conf=conf[i], agree=rng.choice([1/3, 2/3, 1]), k=k, nec_z=nz, suf_z=sz, isr3=int(nz > 1.5 and sz > 1.5),
+        recs.append(dict(subject=f"s{i}", correct=int(cor[i]), conf=conf[i], agree=rng.choice([1/3, 2/3, 1]), k=k, nec_z=nz, suf_z=sz, nec=nz, suf=sz, nec_null_mean=0.0, suf_null_mean=0.0, isr3=int(nz > 1.5 and sz > 1.5),
                          group=["head", "mid", "tail"][i % 3], split="dev" if i % 5 == 0 else "test"))
 td = tempfile.mkdtemp(); pd.DataFrame(recs).to_csv(f"{td}/isr_v3.csv", index=False)
 out = subprocess.run([sys.executable, os.path.join(os.path.dirname(__file__), "..", "analyze_v3.py"), "--isr", f"{td}/isr_v3.csv", "--out", td],
@@ -61,7 +61,7 @@ assert out.returncode == 0, out.stderr[-2000:]
 S = json.load(open(f"{td}/summary_v3.json")); assert S["verdict"]["supported"] and os.path.exists(f"{td}/pilot_v3_results.png")
 print("analysis ok:", S["verdict"], "matched AUROC", round(S["test"]["H3_confidence_matched_auroc"]["value"], 3))
 # and on pure noise it must NOT report support
-for r in recs: r["nec_z"], r["suf_z"] = rng.normal(0, 1), rng.normal(0, 1)
+for r in recs: r["nec_z"], r["suf_z"] = rng.normal(0, 1), rng.normal(0, 1); r["nec"], r["suf"] = r["nec_z"], r["suf_z"]
 pd.DataFrame(recs).to_csv(f"{td}/isr_v3.csv", index=False)
 out = subprocess.run([sys.executable, os.path.join(os.path.dirname(__file__), "..", "analyze_v3.py"), "--isr", f"{td}/isr_v3.csv", "--out", td], capture_output=True, text=True, cwd=os.path.join(os.path.dirname(__file__), ".."))
 assert out.returncode == 0, out.stderr[-2000:]
