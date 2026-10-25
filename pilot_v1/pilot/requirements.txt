@@ -1,0 +1,9 @@
+transformers>=4.44
+accelerate
+huggingface_hub
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+requests
